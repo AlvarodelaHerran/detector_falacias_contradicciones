@@ -1,0 +1,19 @@
+# Python 3.12
+
+# Datos
+pandas==3.0.6
+numpy==2.5.4
+datasets==5.1.0
+requests==2.34.2
+
+# Preprocesado
+nltk==3.10.3
+
+# Representación (BoW / TF-IDF y embeddings)
+scikit-learn==1.9.1
+gensim==4.4.0
+
+# Utilidades
+tqdm==4.70.1
+matplotlib==3.11.2
+ipykernel==7.4.0
