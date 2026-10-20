@@ -3,7 +3,6 @@
 # Datos
 pandas==3.0.6
 numpy==2.5.4
-datasets==5.1.0
 requests==2.34.2
 
 # Preprocesado
