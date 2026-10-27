@@ -16,3 +16,4 @@ gensim==4.4.0
 tqdm==4.70.1
 matplotlib==3.11.2
 ipykernel==7.4.0
+huggingface_hub==1.33.0
