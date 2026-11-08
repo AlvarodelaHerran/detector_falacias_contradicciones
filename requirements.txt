@@ -11,9 +11,14 @@ nltk==3.10.3
 # Representación (BoW / TF-IDF y embeddings)
 scikit-learn==1.9.1
 gensim==4.4.0
+huggingface_hub==1.33.0
+
+# Modelos (E3)
+xgboost==3.4.1
+torch==2.15.0
+optuna==5.0.0
 
 # Utilidades
 tqdm==4.70.1
 matplotlib==3.11.2
 ipykernel==7.4.0
-huggingface_hub==1.33.0
