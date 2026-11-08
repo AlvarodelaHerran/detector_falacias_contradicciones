@@ -1,0 +1,1979 @@
+id,decision_llm,motivo
+fpn_0000_a0,dudoso,Descripción emotiva de los jóvenes; posible apelación a emoción
+fpn_0000_d0,sin_falacia,"Transición hacia propuestas, sin falacia"
+fpn_0002_a0,sin_falacia,"Constatación del apoyo inicial del rival, sin falacia de la guía"
+fpn_0002_a1,dudoso,Lenguaje emotivo (frustración de ilusiones) sin datos; posible emoción
+fpn_0003_a0,falacia,Ad populum: 'el sentido común les indica'
+fpn_0004_a0,dudoso,Tacha al rival de demagogo; posible ad hominem
+fpn_0005_d0,sin_falacia,Explica con datos el crecimiento de la población activa
+fpn_0005_d1,no_valido,Incluye intervención del moderador
+fpn_0006_a0,dudoso,Énfasis en el drama humano del paro; posible apelación a la emoción
+fpn_0006_d0,sin_falacia,Crítica con datos de ocupación y actividad
+fpn_0007_a0,sin_falacia,Cita declaraciones pasadas del rival
+fpn_0008_a0,no_valido,Transcripción incomprensible
+fpn_0008_a1,sin_falacia,Dato de ocupación y reconocimiento de necesidad de empleo
+fpn_0008_a2,sin_falacia,Valoración sobre la protección por desempleo sin recurso falaz
+fpn_0008_d0,dudoso,Apela al sentido común en vez de datos; posible ad populum
+fpn_0009_a0,falacia,Apelación a la emoción: 'les pido que sigan teniendo confianza'
+fpn_0010_d0,sin_falacia,Matiza la salida de la crisis con factores externos concretos
+fpn_0011_a0,sin_falacia,Análisis económico con concesiones y problemas concretos
+fpn_0012_a0,sin_falacia,Responde con el dato del cambio del dólar
+fpn_0012_a1,no_valido,Réplica cortada con frases de trámite e interrupción
+fpn_0013_d0,dudoso,'Salga a la calle': posible ataque personal junto a argumento
+fpn_0014_d0,sin_falacia,"Pide responder por un asunto, sin falacia"
+fpn_0015_a0,no_valido,"Discurso inconexo, no se entiende"
+fpn_0015_a1,sin_falacia,Enumera logros económicos del país
+fpn_0015_a2,sin_falacia,Dato económico sobre crecimiento y precios
+fpn_0015_d0,sin_falacia,Diagnóstico sobre competitividad empresarial sin falacia
+fpn_0016_a0,no_valido,Mezcla candidato y moderador
+fpn_0017_a0,falacia,Ad hominem: desacredita al rival por su actitud pasada
+fpn_0018_d0,falacia,Hombre de paja: cuestionar cifras equivale a cuestionar a todos los funcionarios
+fpn_0019_d0,dudoso,"Fragmentario; apela a que 'la gente se siente bien', posible ad populum"
+fpn_0021_a0,sin_falacia,Defiende el gasto educativo con datos de resultados
+fpn_0021_d0,dudoso,Apelación vaga al esfuerzo del país; posible apelación a identidad
+fpn_0022_a0,no_valido,Cruce de varios oradores interrumpiéndose
+fpn_0022_d0,no_valido,Intervención del moderador repartiendo turnos
+fpn_0023_a0,sin_falacia,"Crítica a apropiarse del papel de los soldados, tono duro"
+fpn_0023_d0,sin_falacia,Recuerda hechos históricos de política exterior
+fpn_0024_a0,no_valido,Transcripción incoherente y cortada
+fpn_0025_a0,sin_falacia,Crítica concreta sobre unas declaraciones
+fpn_0025_a1,dudoso,Confuso; insinúa algo sobre el rival sin aclararlo
+fpn_0025_a2,sin_falacia,Precisa el ámbito de unas conversaciones sin recurso falaz
+fpn_0025_a3,no_valido,Frase incompleta sin contenido
+fpn_0028_a0,sin_falacia,Critica la oposición del rival a normativa contra blanqueo
+fpn_0031_a0,no_valido,Intervención del moderador
+fpn_0031_a1,no_valido,Frase de trámite incompleta
+fpn_0032_d0,sin_falacia,Describe dificultades económicas sin exagerar
+fpn_0033_a0,sin_falacia,"Pide al rival razones en vez de críticas, sin falacia"
+fpn_0034_a0,falacia,Ad hominem/envenenar el pozo: lista de acusaciones al rival
+fpn_0035_a0,no_valido,Moderador da turno y mezcla con otro orador (R:)
+fpn_0039_a0,no_valido,Mezcla dos oradores (interrupción marcada con Z:)
+fpn_0039_a1,sin_falacia,"Anuncia una crítica a una propuesta concreta, sin recurso falaz"
+fpn_0039_d0,no_valido,"Fragmento incompleto sin sujeto, no se entiende solo"
+fpn_0041_a0,sin_falacia,Señala una incoherencia con declaraciones previas del rival
+fpn_0042_a0,sin_falacia,Lista de medidas y cita del rival
+fpn_0042_a1,dudoso,"Cita breve sin contexto, invoca a la sociedad española"
+fpn_0042_d0,no_valido,Incomprensible sin el contexto previo
+fpn_0043_a0,sin_falacia,Comparación con cifras del gasto en dependencia
+fpn_0043_d0,sin_falacia,Argumenta sobre equilibrio de derechos en servicios públicos
+fpn_0044_a0,dudoso,Lista de valores tipo eslogan con pulla al rival
+fpn_0044_d0,no_valido,"Mezcla de oradores (""Z: Eso es falso"")"
+fpn_0045_a0,no_valido,Mezcla oradores (marca R:)
+fpn_0045_a1,no_valido,Mezcla de oradores con marca Z: y risas
+fpn_0047_a0,dudoso,Transcripción confusa; 'ningún gobierno del mundo' roza ad populum
+fpn_0047_d0,sin_falacia,Relata su apoyo pasado a una decisión concreta
+fpn_0049_a0,no_valido,Mezcla varios oradores (Z: ... R: ...)
+fpn_0050_a0,sin_falacia,Dato concreto sobre su gestión
+fpn_0051_d0,sin_falacia,Relato de hechos sobre la comisión del 11-M
+fpn_0053_d1,no_valido,Marca 'V:' del moderador dando turno
+fpn_0054_a0,sin_falacia,Crítica basada en un hecho concreto
+fpn_0054_a1,no_valido,Fragmento incompleto sin contenido
+fpn_0055_a0,sin_falacia,Da un motivo concreto para no apoyar
+fpn_0055_a1,no_valido,Mezcla oradores (marcas V: y Z:)
+fpn_0055_d0,dudoso,Equipara criticar al Gobierno con denigrar España; posible ad hominem
+fpn_0056_d0,sin_falacia,Crítica basada en el programa sobre el trasvase
+fpn_0056_d1,falacia,Ad hominem por historial ('siempre a rastras') sin argumento
+fpn_0060_a0,dudoso,Marca de orador y acusaciones sin desarrollar ('ustedes no la han tenido')
+fpn_0061_a0,no_valido,Intervención del moderador dando la palabra
+fpn_0062_a0,falacia,Apelación a la identidad: nación de quinientos años de historia
+fpn_0062_a1,no_valido,Mezcla oradores (marca Z:)
+fpn_0062_d0,sin_falacia,"Defiende el diálogo como forma de gobernar, sin falacia"
+fpn_0063_d0,sin_falacia,Crítica con hechos a la política de vivienda
+fpn_0066_d0,sin_falacia,Comparación de datos de vivienda e I+D
+fpn_0068_a0,sin_falacia,Crítica de incoherencia apoyada en dato de renovables
+fpn_0069_a0,no_valido,Marca de orador 'Z:' y transcripción entrecortada
+fpn_0070_a0,sin_falacia,Afirmación sobre educación y ciencia sin recurso falaz
+fpn_0070_d0,sin_falacia,Reprocha una expresión concreta del rival
+fpn_0071_a0,dudoso,Frase tipo eslogan sin contenido sustantivo
+fpn_0073_a0,dudoso,"Lista de medidas, pero justifica una con 'en línea con otros países europeos'"
+fpn_0074_a0,dudoso,Atribuye la situación actual a no hacer reformas; posible falsa causa
+fpn_0076_a0,dudoso,Datos y luego reproche personal que desvía el tema (posible pista falsa)
+fpn_0076_a1,sin_falacia,Concede un dato y propone ver otros productos
+fpn_0076_d0,sin_falacia,Refuta una afirmación del rival con datos
+fpn_0077_a0,sin_falacia,Pide veracidad y remite a comprobación
+fpn_0078_a0,no_valido,Ininteligible por errores de transcripción
+fpn_0078_d0,no_valido,Frase introductoria sin contenido argumentativo
+fpn_0079_a0,falacia,Hombre de paja: caricaturiza lo que dijo e hizo el rival
+fpn_0079_a1,sin_falacia,Propuestas económicas con ejemplos
+fpn_0079_a2,sin_falacia,Lista de recomendaciones de política económica
+fpn_0080_a0,dudoso,Atribución causal ('por eso') sin datos ni contexto
+fpn_0080_a1,sin_falacia,"Usa un índice de la ONU como fuente de datos, no como garantía"
+fpn_0081_a0,sin_falacia,Recuerda una propuesta propia anterior
+fpn_0081_a1,dudoso,Atribuye la buena marcha a herencia e inercia sin pruebas; posible falsa causalidad
+fpn_0081_d0,no_valido,Frase de transición sin contenido argumentativo
+fpn_0082_d0,dudoso,Desacredita al rival por su historial de preguntas; posible ad hominem
+fpn_0085_a0,sin_falacia,Crítica a la gestión y promesa de bajar el IRPF
+fpn_0087_a0,sin_falacia,Propuestas concretas sobre diálogo social y temporalidad
+fpn_0088_d0,dudoso,'Usted no es consciente': posible ataque personal; quizá mezcla oradores
+fpn_0089_a0,dudoso,Despacha al rival con reproche vago; posible pista falsa
+fpn_0091_a0,no_valido,Incluye aviso del moderador 'Última intervención'
+fpn_0091_d0,sin_falacia,Compara regularizaciones con datos y condiciones concretas
+fpn_0091_d1,dudoso,"Acusación sobre regularización, posible apelación al miedo"
+fpn_0091_d2,dudoso,Burla personal sobre afición de Rajoy; posible ad hominem o anécdota generalizada
+fpn_0091_d3,falacia,Ad hominem tu quoque sobre regularización de inmigrantes
+fpn_0091_d4,falacia,"Falsa causalidad y generalización: 'todas vinieron', 'por eso la avalancha'"
+fpn_0091_d5,falacia,Apelación a la autoridad: ministros francés y alemán como garantía
+fpn_0091_d6,falacia,Apelación a la autoridad: cita a dirigentes extranjeros como garantía
+fpn_0091_d7,dudoso,"Atribución causal simplista a la regularización, posible falsa causalidad"
+fpn_0091_d8,no_valido,Moderador cambiando de bloque
+fpn_0093_a0,sin_falacia,Propuesta concreta contra la violencia de género; tono duro
+fpn_0094_a0,no_valido,Puro preámbulo sin contenido argumentativo
+fpn_0094_a1,sin_falacia,Cita literal de una declaración del rival
+fpn_0094_a2,falacia,Ad hominem: 'demuestra quién es usted'
+fpn_0094_a3,sin_falacia,Réplica breve sobre quién saca el tema de Irak
+fpn_0094_a4,dudoso,Posible interrupción de otro orador y apelación a la ONU
+fpn_0095_a0,dudoso,Réplica que devuelve la culpa al rival; posible ad hominem tu quoque
+fpn_0095_a1,sin_falacia,Niega con ironía una atribución del rival
+fpn_0095_a2,dudoso,Réplica sarcástica que reformula al rival; posible hombre de paja
+fpn_0096_a0,sin_falacia,"Crítica a una actuación concreta, tono duro"
+fpn_0096_a1,sin_falacia,Explica un hecho y su consecuencia judicial
+fpn_0097_a0,falacia,Ad hominem: 'se fue para hacerse propaganda'
+fpn_0097_d0,falacia,Ad populum: 'lo ha dicho todo el mundo' como garantía
+fpn_0099_d0,sin_falacia,Recuerda un hecho: apoyo al gobierno de Aznar
+fpn_0099_d1,falacia,Ad hominem: acusa al rival de usar a los muertos
+fpn_0100_a0,dudoso,Declaración identitaria y fragmento cortado
+fpn_0100_a1,dudoso,Fragmento cortado con burla al rival; posible ad hominem
+fpn_0100_d0,dudoso,"Desvía hacia reprobación del ministro rival; posible pista falsa, texto confuso"
+fpn_0102_a0,sin_falacia,Hecho concreto con cifras sobre financiación andaluza
+fpn_0102_a1,sin_falacia,Afirmación factual sobre la política lingüística
+fpn_0102_d0,falacia,Ad hominem: ataca el pasado del rival y le atribuye intención de dividir
+fpn_0104_a0,sin_falacia,Anuncia una ley y pide postura al rival
+fpn_0104_d0,dudoso,Atribuye indiferencia al rival ('a usted le era igual') sin más
+fpn_0106_a0,dudoso,"Responde señalando el pasado del rival, posible tu quoque/ad hominem"
+fpn_0106_d0,falacia,Hombre de paja: atribuye a Zapatero una postura deformada
+fpn_0108_a0,sin_falacia,Propuesta educativa concreta
+fpn_0108_a1,sin_falacia,Propuesta concreta de becas con cifra
+fpn_0108_a2,sin_falacia,Datos y objetivos concretos sobre educación
+fpn_0108_a3,sin_falacia,Propuesta universitaria concreta
+fpn_0108_a4,sin_falacia,Crítica apoyada en dato comparativo de resultados
+fpn_0108_d0,sin_falacia,Critica la educación con datos de PISA y abandono
+fpn_0109_a0,sin_falacia,Propuesta educativa y crítica razonada al informe
+fpn_0110_d0,dudoso,"Pasa del dato a atacar al rival (""usted falta""); posible ad hominem"
+fpn_0110_d1,no_valido,No se entiende por errores de transcripción
+fpn_0110_d2,sin_falacia,Defiende sus datos remitiendo a fuentes oficiales del rival
+fpn_0113_a0,no_valido,"Puro trámite, anuncia tema"
+fpn_0114_a0,no_valido,"Fragmento inconexo, difícil de entender"
+fpn_0115_a0,no_valido,"Frase sin contexto, probable error de transcripción"
+fpn_0115_d0,sin_falacia,Prioridades económicas y objetivo concreto con datos de empleo
+fpn_0115_d1,sin_falacia,Razona por qué la economía sostiene las políticas sociales
+fpn_0116_a0,dudoso,Posible falso dilema y apelación a la dignidad del Estado
+fpn_0117_a0,no_valido,"Trámite: condolencias y agradecimientos, parece moderador"
+fpn_0118_d0,dudoso,'Como muchos' y frase repetitiva sin contenido; posible ad populum/eslogan
+fpn_0119_a0,no_valido,Empieza con el moderador dando la palabra
+fpn_0119_d0,dudoso,Descalifica de antemano al rival; posible envenenar el pozo
+fpn_0123_a0,sin_falacia,Pregunta al rival sobre unas declaraciones concretas
+fpn_0123_a1,no_valido,Mezcla moderador ('su tiempo') y orador
+fpn_0123_d0,dudoso,Pregunta con premisa implícita contra el rival; posible pregunta compleja
+fpn_0125_a0,sin_falacia,Afirmación fáctica concreta sobre un decreto
+fpn_0125_a1,sin_falacia,Detalla efectos de reformas y reta a dar un ejemplo
+fpn_0127_a0,sin_falacia,Interpreta el programa rival citando sus puntos
+fpn_0129_d0,dudoso,Exageración 'no sirvieron para nada'; posible generalización
+fpn_0129_d1,sin_falacia,Distingue situaciones empresariales según territorio
+fpn_0130_d0,falacia,Ad hominem: descalifica al rival por seguir doctrinas ajenas
+fpn_0133_a0,no_valido,Fragmento incompleto sin contexto
+fpn_0133_a1,dudoso,Acusación vaga de incoherencia; posible ad hominem
+fpn_0135_a0,sin_falacia,Explica mecanismo entre austeridad pública y crédito
+fpn_0137_a0,no_valido,"Parece mezclar oradores, poco inteligible"
+fpn_0137_a1,sin_falacia,Crítica apoyada en una declaración publicada
+fpn_0137_a2,dudoso,Descalificación del rival como ambiguo; posible ad hominem
+fpn_0137_d0,dudoso,Atribuye intenciones ocultas al rival; posible miedo u hombre de paja
+fpn_0137_d1,no_valido,Incluye intervención del moderador repartiendo turno
+fpn_0140_a0,sin_falacia,Argumento general sobre economía y políticas sociales
+fpn_0141_a0,sin_falacia,Afirmación sobre sanidad privada que introduce una explicación
+fpn_0141_d0,no_valido,Fragmento incompleto: no se entiende a qué se refiere
+fpn_0143_a0,sin_falacia,Señala incoherencia con un dato presupuestario
+fpn_0143_d0,falacia,Ad populum: apela al 'sentido común' en lugar de argumentos
+fpn_0144_a0,sin_falacia,"Compromiso de cumplir una ley aprobada, sin falacia"
+fpn_0147_a0,no_valido,"Puro trámite, solo anuncia el tema"
+fpn_0147_d0,sin_falacia,Dato informativo sobre el peso del Ministerio de Sanidad
+fpn_0148_a0,sin_falacia,Crítica apoyada en una cita concreta del programa
+fpn_0148_d0,no_valido,Moderador repartiendo el tiempo
+fpn_0150_d0,no_valido,Moderador dando turno a Rajoy
+fpn_0150_d1,dudoso,Descalifica la comprensión del rival sin argumento
+fpn_0151_a0,no_valido,Mezcla moderador y orador
+fpn_0151_d0,dudoso,Lista de oposiciones; posible generalización apresurada
+fpn_0151_d1,sin_falacia,Crítica de incoherencia apoyada en ejemplos concretos de posturas
+fpn_0152_d0,sin_falacia,Petición concreta sobre el recurso al matrimonio igualitario
+fpn_0153_a0,sin_falacia,Defiende igualdad salarial y cambios legales
+fpn_0154_d0,falacia,Falsa causalidad: atribuye el problema a que Zapatero solo buscaba dividir
+fpn_0157_a0,sin_falacia,"Comentario de transición, sin falacia"
+fpn_0158_d0,sin_falacia,"Planteamiento general sobre credibilidad exterior, sin falacia"
+fpn_0163_a0,sin_falacia,Propuesta concreta de incluir derechos sociales en la Constitución
+fpn_0165_a0,falacia,Apelación a la autoridad: Francia y EEUU como garantía
+fpn_0165_d0,sin_falacia,Argumenta a favor de reguladores independientes con ejemplos
+fpn_0166_d0,no_valido,"Intercambio fragmentado, parece mezclar oradores"
+fpn_0169_d0,sin_falacia,Afirma un dato sobre retorno fiscal de la inversión
+fpn_0169_d1,no_valido,Errores de transcripción hacen ininteligibles las cifras
+fpn_0172_a0,sin_falacia,Justifica no prometer dinero con datos de deuda y paro
+fpn_0174_a0,sin_falacia,Pregunta con propuesta concreta sobre acceso docente
+fpn_0174_a1,sin_falacia,Opinión razonada sobre profesores y propuesta concreta
+fpn_0174_a2,dudoso,Toma otros países europeos como referencia; posible apelación a la autoridad
+fpn_0174_d0,sin_falacia,"Opinión sencilla sobre los profesores, sin falacia"
+fpn_0174_d1,sin_falacia,Propuesta concreta de pacto educativo con un dato de apoyo
+fpn_0174_d2,sin_falacia,Propone reforma y pacto educativo
+fpn_0174_d3,sin_falacia,Propuesta concreta sobre evaluación de la ANECA
+fpn_0176_a0,no_valido,Parece mezclar intervenciones de varios oradores
+fpn_0176_d0,falacia,Ad hominem: alusión a caballos regalados a Aznar
+fpn_0176_d1,sin_falacia,Crítica razonada sobre eficacia de intervenciones militares
+fpn_0181_a0,dudoso,"Analogía ETA-yihadismo, posible falsa analogía"
+fpn_0181_a1,dudoso,Posible generalización apresurada a partir de dos casos
+fpn_0181_d0,falacia,Ad hominem por asociación: vincula a Rivera con Aznar
+fpn_0185_a0,no_valido,Mezcla presentación del moderador e intervención
+fpn_0185_a1,sin_falacia,"Informa de cómo fue elegido, sin usarlo como argumento"
+fpn_0185_a2,sin_falacia,Enumeración de logros de gobierno sin falacia de la guía
+fpn_0185_a3,falacia,Atribuye a la derecha intenciones ocultas: hombre de paja
+fpn_0186_a0,dudoso,Mezcla datos con ataque al pasado del partido rival
+fpn_0187_d0,sin_falacia,Aclara su propuesta y pide bajar el tono
+fpn_0188_a0,dudoso,Descalificación por asociación con el PP sin argumentos
+fpn_0188_a1,sin_falacia,Coincide en diagnóstico y señala contraste con la acción de gobierno
+fpn_0188_a2,falacia,Ad hominem: usa el historial del PSOE para restar credibilidad a propuestas
+fpn_0188_d0,no_valido,"Trámite: anuncia que va a hablar de un caso, sin contenido"
+fpn_0189_a0,no_valido,Pregunta del moderador
+fpn_0189_a1,no_valido,Pregunta de otro interlocutor y respuesta mezcladas
+fpn_0190_a0,sin_falacia,Contrasta políticas y explica su propuesta laboral
+fpn_0190_d0,sin_falacia,"Afirmación sobre el empleo, sin falacia"
+fpn_0192_a0,no_valido,Mezcla moderador y orador; además frase tipo eslogan
+fpn_0192_a1,sin_falacia,Propuesta concreta sobre permisos de paternidad y maternidad
+fpn_0193_a0,sin_falacia,Propuesta concreta de pacto educativo
+fpn_0194_a0,dudoso,Descalifica asociando con periodistas; posible ad hominem
+fpn_0196_d0,dudoso,Posible hombre de paja al ministro; tacha de falso sin razones
+fpn_0196_d1,sin_falacia,Propone no derogar leyes por quién las propone
+fpn_0199_a0,sin_falacia,Opinión sobre el efecto esperado de una reforma
+fpn_0199_a1,no_valido,Mezcla moderador y orador
+fpn_0200_a0,dudoso,Usa una película como base de una conclusión política
+fpn_0200_a1,no_valido,Mezcla moderador y orador
+fpn_0200_a2,falacia,Falsa causalidad: sin declaración de independencia cuando gobierna el PSOE
+fpn_0200_d0,sin_falacia,Rechaza dos posturas y propone una tercera concreta
+fpn_0201_a0,sin_falacia,Explica cómo conciben la reforma constitucional
+fpn_0201_d0,dudoso,Invoca a la mayoría que quiere seguir junta; posible ad populum
+fpn_0201_d1,dudoso,Apoya la postura en lo que vota la mayoría; posible ad populum
+fpn_0202_a0,falacia,Ad populum: el apoyo de los catalanes como prueba del buen diagnóstico
+fpn_0202_a1,sin_falacia,Crítica de una decisión pasada con su justificación
+fpn_0204_a0,sin_falacia,Defiende su gestión con hechos concretos
+fpn_0205_d0,no_valido,"Puro trámite, sin contenido argumentativo"
+fpn_0206_a0,sin_falacia,Propuesta concreta sobre instancias judiciales
+fpn_0207_a1,dudoso,Confuso; generalización sobre PP y PSOE durante 30 años
+fpn_0208_d0,dudoso,"""Lo que quieren la inmensa mayoría"": posible ad populum"
+fpn_0209_a0,dudoso,Posible frase de moderador al inicio; 'enfermo de Europa' puede apelar al miedo
+fpn_0209_d0,sin_falacia,Datos de crecimiento comparados con otros países
+fpn_0209_d1,sin_falacia,Balance de empleo con datos concretos
+fpn_0209_d2,sin_falacia,Objetivo de empleo justificado con dato de paro
+fpn_0210_a0,dudoso,Vincula a Rajoy con Rato; posible ad hominem por asociación
+fpn_0210_a1,dudoso,'No hay mucha gente que la comparta': posible ad populum
+fpn_0210_a2,sin_falacia,Datos de déficit y financiación
+fpn_0210_a3,sin_falacia,Lista de datos económicos
+fpn_0210_d0,sin_falacia,Crítica con cifras sobre rescate y crecimiento
+fpn_0210_d1,dudoso,Reproche personal sobre apropiarse de méritos: posible ad hominem
+fpn_0211_a0,sin_falacia,Objetivo de empleo condicionado a políticas concretas
+fpn_0211_a1,dudoso,Acusa al rival de separar sin argumentarlo
+fpn_0211_a2,sin_falacia,Propuesta concreta de formación y empleo con cifra
+fpn_0211_a3,sin_falacia,Crítica concreta: paralización del plan de garantía juvenil
+fpn_0211_a4,sin_falacia,Crítica concreta y propuesta cuantificada de salario mínimo
+fpn_0211_a5,sin_falacia,Dato de brecha salarial y propuesta de ley
+fpn_0211_d0,sin_falacia,Propuesta concreta sobre tipos de contrato
+fpn_0212_d0,dudoso,Responde acusando al rival de regalar dinero; posible ad hominem
+fpn_0212_d1,falacia,Falsa causalidad: atribuye millones de empleos a leyes sin probarlo
+fpn_0213_d0,sin_falacia,Lista de reformas y dato de plazas de FP
+fpn_0213_d1,sin_falacia,Propuesta fiscal concreta con cifras
+fpn_0215_a0,falacia,Ad hominem: recupera una frase pasada de Montoro para desacreditarlo
+fpn_0215_a1,dudoso,"Datos concretos, pero arranca con pulla 'menudo patriota'"
+fpn_0215_a2,sin_falacia,Cronología de declaraciones sobre el rescate
+fpn_0215_d0,sin_falacia,Crítica basada en declaraciones contrastables
+fpn_0215_d1,sin_falacia,"Concesión y pregunta aclaratoria, sin falacia"
+fpn_0215_d2,sin_falacia,Describe el contexto económico de 2012
+fpn_0216_a0,no_valido,Interrupciones y frase sin contenido argumentativo
+fpn_0216_d0,sin_falacia,Explica el préstamo europeo y su devolución
+fpn_0218_d0,sin_falacia,Informa de un requerimiento de ajuste de la Comisión Europea
+fpn_0220_a0,sin_falacia,Compromiso concreto de déficit
+fpn_0220_d0,sin_falacia,Explica el origen de la deuda pública
+fpn_0220_d1,falacia,Falsa analogía con Tsipras en Grecia
+fpn_0221_a0,no_valido,Pregunta del moderador a un candidato
+fpn_0222_a0,no_valido,Mezcla de oradores sin marcar: acusa a Rajoy y luego responde Rajoy
+fpn_0222_d0,sin_falacia,"Argumenta relación entre política económica, empleo y recursos sociales"
+fpn_0223_a0,dudoso,Tu quoque y causa simplificada del precio de la luz
+fpn_0223_a1,sin_falacia,Lista de medidas y logros en contexto de déficit
+fpn_0223_d0,sin_falacia,Dato concreto sobre impagos sanitarios
+fpn_0223_d1,falacia,Apelación a la autoridad: cita a Fernando de los Ríos como garantía
+fpn_0224_a0,falacia,Hombre de paja: 'yo soy partidario de la libertad y usted no'
+fpn_0225_a0,no_valido,Mezcla orador y moderador leyendo pregunta de periodista
+fpn_0225_a1,sin_falacia,Crítica basada en un hecho concreto sobre la hucha de pensiones
+fpn_0225_a2,sin_falacia,Datos sobre el Fondo de Reserva de pensiones
+fpn_0225_a3,sin_falacia,Crítica dura con dato sobre la hucha de pensiones
+fpn_0225_a4,falacia,Ad hominem: descalifica al rival para dar lecciones
+fpn_0225_d0,no_valido,Trámite: frase introductoria sin contenido
+fpn_0226_a0,no_valido,Mezcla de dos oradores: acusación y respuesta
+fpn_0226_a1,falacia,Ad populum: 'todo el mundo sabe que no se han congelado'
+fpn_0226_a2,falacia,Envenenar el pozo: desacredita todo lo que dice el rival
+fpn_0227_a0,dudoso,"Interrupciones y ""no mienta""; apoyo en lo dicho por el ministro"
+fpn_0227_d1,sin_falacia,Crítica apoyada en dato concreto sobre cuidadores
+fpn_0228_d0,sin_falacia,Lista de datos sobre atención a la dependencia
+fpn_0228_d1,no_valido,Mezcla varios oradores e interrupciones
+fpn_0229_d0,falacia,Falsa causalidad: caída de activas por la reforma laboral; posible mezcla de oradores
+fpn_0229_d1,sin_falacia,Pide al rival justificar una acusación
+fpn_0231_a0,sin_falacia,"Resume posturas ajenas y anuncia las propias, sin falacia"
+fpn_0231_d0,dudoso,Reproche del pasado sin contexto; posible ad hominem
+fpn_0231_d1,sin_falacia,Recuerda una declaración concreta del rival
+fpn_0231_d2,dudoso,'Los españoles sabemos perfectamente' sin pruebas; posible ad populum
+fpn_0231_d3,sin_falacia,Afirmación neutral sobre la elección libre
+fpn_0232_a0,no_valido,"Frase confusa por la transcripción, no se entiende el sentido"
+fpn_0232_a1,dudoso,"Desconfianza personal hacia Rajoy, posible ad hominem; transcripción confusa"
+fpn_0232_d0,dudoso,Acusación de doble vara; posible ad hominem tu quoque y generalización
+fpn_0232_d1,dudoso,"Se defiende atacando el historial del rival, posible ad hominem"
+fpn_0233_a0,no_valido,Confuso; parece moderador o mezcla de intervenciones
+fpn_0233_a1,sin_falacia,Crítica respaldada con el dato del déficit
+fpn_0233_a2,no_valido,Interrupciones y transcripción ininteligible
+fpn_0233_d0,no_valido,Mezcla de oradores interrumpiéndose ('El que miente es usted')
+fpn_0234_d0,dudoso,Generaliza sobre todo lo dicho por el rival
+fpn_0235_d0,dudoso,'El futuro del euro estaba en juego' sin razones; posible apelación al miedo
+fpn_0236_d0,sin_falacia,Explicación de un pacto antiterrorista con ejemplos concretos
+fpn_0236_d1,sin_falacia,Propuestas de cooperación y política de fronteras europea
+fpn_0236_d2,sin_falacia,Propone diálogo con la comunidad musulmana y lo razona
+fpn_0236_d3,no_valido,"Puro trámite: muestra acuerdo y anuncia respuesta, sin contenido argumentativo"
+fpn_0237_a0,sin_falacia,Propuesta económica con su justificación
+fpn_0237_a1,no_valido,Mezcla turno del moderador con intervención de un candidato
+fpn_0237_d0,no_valido,Mezcla candidato y moderador cerrando el debate
+fpn_0239_a0,no_valido,Parece mezclar pregunta y cambio de turno; temas inconexos
+fpn_0239_a1,no_valido,Agradecimientos y trámite
+fpn_0239_a2,sin_falacia,Datos con fuente citada sobre pobreza y hogares
+fpn_0239_a3,sin_falacia,Datos de pobreza expuestos sin exageración
+fpn_0240_a0,dudoso,Atribuye inversiones a la flexibilidad laboral; posible falsa causalidad
+fpn_0240_d0,no_valido,Empieza con reparto de turnos del moderador
+fpn_0241_a0,sin_falacia,"Breve justificación con referencia a hechos pasados, sin falacia"
+fpn_0242_d0,sin_falacia,Crítica apoyada en un dato de paro
+fpn_0243_a0,sin_falacia,Constata medidas compartidas con otros partidos
+fpn_0243_a1,sin_falacia,Explica por qué no salió la investidura con un hecho
+fpn_0243_a2,falacia,Hombre de paja: atribuye a rivales visión triste de que no hay nada nuevo
+fpn_0243_a3,sin_falacia,Rebate acusación citando su propuesta de empleo
+fpn_0243_d0,sin_falacia,Rebate con dato e ilustración proporcional
+fpn_0243_d1,sin_falacia,Ejemplo ilustrativo de la temporalidad de contratos
+fpn_0243_d2,no_valido,"Empieza cortado, cifras ininteligibles sin contexto"
+fpn_0243_d3,sin_falacia,"Introduce explicación de logros, sin falacia"
+fpn_0244_a0,falacia,Falsa analogía con Grecia y repetición enfática
+fpn_0245_a0,dudoso,Apela al esfuerzo colectivo frente a sus políticas; posible apelación a identidad
+fpn_0245_d0,sin_falacia,"Pide al rival reconocer errores, sin falacia"
+fpn_0246_d0,sin_falacia,Crítica a la reforma fiscal apoyada en datos
+fpn_0247_d0,falacia,Usa países del entorno como garantía: apelación a la autoridad/ad populum
+fpn_0247_d1,sin_falacia,Crítica apoyada en ejemplos concretos de política energética
+fpn_0247_d2,sin_falacia,Crítica argumentada con datos de retenciones
+fpn_0247_d3,falacia,Generalización apresurada: 'siempre en contra de los más débiles'
+fpn_0247_d4,no_valido,Mezcla moderador y candidato
+fpn_0248_a0,no_valido,Intervención del moderador repartiendo turnos
+fpn_0248_a1,sin_falacia,Crítica concreta al coste de la propuesta de gasto
+fpn_0250_d0,sin_falacia,Cuestiona la viabilidad de un plan de gasto
+fpn_0251_d1,sin_falacia,Presenta un documento como evidencia
+fpn_0252_a0,sin_falacia,Dato y propuesta concreta sobre pensiones
+fpn_0253_a0,no_valido,Puro trámite: introduce tema sin contenido
+fpn_0253_d0,sin_falacia,Crítica concreta a medidas del Real Decreto (error: 'drogar' por 'derogar')
+fpn_0253_d1,sin_falacia,Propuesta concreta de inversión en sanidad
+fpn_0253_d2,sin_falacia,Enumera propuestas sanitarias concretas
+fpn_0253_d3,sin_falacia,Datos de recortes en dependencia
+fpn_0253_d4,sin_falacia,Dato sobre lista de espera de dependencia
+fpn_0253_d5,sin_falacia,Informa de que las medidas estaban en el acuerdo de investidura
+fpn_0254_a0,sin_falacia,Compromisos educativos concretos
+fpn_0254_a1,dudoso,Desacredita al rival por su elección pasada; posible ad hominem
+fpn_0255_a0,sin_falacia,Crítica a una actuación concreta en la negociación
+fpn_0255_a1,no_valido,Intervención del moderador repartiendo turnos
+fpn_0255_d0,no_valido,"Puro trámite de transición, sin contenido"
+fpn_0256_a0,falacia,Falso dilema: 'no hay más opciones que esa'
+fpn_0257_d0,no_valido,Intervención del moderador
+fpn_0258_a0,no_valido,Intervención del moderador sobre el tiempo
+fpn_0258_a1,falacia,Hombre de paja: que todo el mundo tenga contratos temporales
+fpn_0258_a2,sin_falacia,Crítica de promesa incumplida y propuesta concreta
+fpn_0259_d0,dudoso,"Usa la etiqueta 'ley Berlusconi' de juristas, posible autoridad"
+fpn_0260_a0,no_valido,"Transcripción defectuosa, no se entiende"
+fpn_0261_a0,dudoso,Ironía asociando a Rajoy con Iglesias y afirmación sin datos
+fpn_0261_a1,dudoso,Lista de casos de corrupción; puede ser crítica fundada o ad hominem
+fpn_0261_d0,sin_falacia,Relata un intento de pacto y hace una previsión electoral
+fpn_0261_d1,no_valido,Mezcla moderador y orador
+fpn_0262_a0,sin_falacia,"Afirmación sobre independencia de instituciones, sin falacia clara"
+fpn_0262_a1,dudoso,Insinúa intenciones del rival; posible ad hominem
+fpn_0264_a0,dudoso,Insinúa falta de autoridad moral del rival; posible ad hominem
+fpn_0264_d0,falacia,Pregunta cargada de premisas sobre corrupción: pregunta compleja
+fpn_0266_a0,falacia,"Hombre de paja (""según usted"") y ad hominem (""mentalidad inquisitorial"")"
+fpn_0267_a0,falacia,Ad hominem: alude a desesperación y nervios del rival
+fpn_0267_d0,dudoso,Posible ad hominem: ataca la financiación del rival
+fpn_0268_a0,sin_falacia,Datos concretos sobre listas y transparencia
+fpn_0268_d0,no_valido,Parece del moderador planteando la pregunta
+fpn_0269_d0,sin_falacia,Propuesta con fundamento legal concreto
+fpn_0270_a0,dudoso,Termina justificando con 'todo el mundo tiene clara' (ad populum)
+fpn_0270_d0,no_valido,Parece mezcla con pregunta del moderador a Sánchez
+fpn_0270_d1,sin_falacia,Crítica sobre un voto concreto del rival
+fpn_0271_a0,falacia,Falsa causalidad: el inmovilismo rival causa que catalanes quieran irse
+fpn_0272_d0,sin_falacia,Argumenta la necesidad de pactos por falta de mayorías absolutas
+fpn_0272_d1,no_valido,Mezcla pregunta del moderador y respuesta del orador
+fpn_0273_d0,sin_falacia,Postura sobre acuerdos internacionales y crítica de falta de liderazgo
+fpn_0273_d1,sin_falacia,Reconoce logros europeos pasados con ejemplos
+fpn_0274_a0,sin_falacia,"Recuerda un hecho sobre negociaciones pasadas, sin falacia"
+fpn_0274_a1,no_valido,Pregunta del moderador
+fpn_0274_a2,dudoso,Habla por los ciudadanos; posible ad populum
+fpn_0274_d0,sin_falacia,Postura sobre investidura y propuesta de coalición
+fpn_0274_d1,dudoso,Justifica con 'como ocurre siempre'; posible ad populum
+fpn_0274_d2,dudoso,Lenguaje emotivo (nos jugamos España); posible apelación a la emoción
+fpn_0277_a0,sin_falacia,Objetivo de empleo concreto con cifras
+fpn_0277_a1,no_valido,Mezcla moderador dando turno y orador
+fpn_0279_a0,no_valido,Pregunta del moderador
+fpn_0279_d0,no_valido,Moderador dando instrucciones de tiempo
+fpn_0281_a0,dudoso,"""A nosotras no nos compran"": insinúa contra otros; posible ad hominem"
+fpn_0282_a0,falacia,Apelación a la identidad: España es un gran país
+fpn_0283_a0,sin_falacia,Explica objetivos de empleo y principio fiscal
+fpn_0285_a0,sin_falacia,Resume propuestas de empleo
+fpn_0287_a0,sin_falacia,Propuesta fiscal concreta con datos
+fpn_0287_d0,sin_falacia,Propuesta concreta sobre contratos temporales e indefinidos
+fpn_0288_a0,sin_falacia,Propuesta concreta sobre cuotas de autónomos
+fpn_0292_d0,dudoso,Pulla personal sin argumento; posible ad hominem
+fpn_0293_d0,falacia,Hombre de paja: atribuye a Montero que las mujeres son víctimas
+fpn_0294_a0,falacia,Deforma la postura feminista del rival: hombre de paja
+fpn_0295_d0,sin_falacia,Opinión razonada sobre servicios públicos y desigualdad
+fpn_0296_a0,dudoso,"Propuesta concreta, pero usa la media europea como referencia"
+fpn_0296_a1,sin_falacia,Propuesta sanitaria concreta
+fpn_0296_a2,sin_falacia,Dato sobre inversión y propuesta concreta para sanidad
+fpn_0296_d0,sin_falacia,Propuesta concreta de empresa pública de energía
+fpn_0298_a0,no_valido,"Mezcla moderador (turnos, tiempo) y frase de un orador"
+fpn_0299_a0,dudoso,Atribuye motivos al rival sin pruebas y queda cortado
+fpn_0301_d0,no_valido,Mezcla moderador y frase de un orador
+fpn_0302_d0,sin_falacia,Plantea una pregunta recordando un anuncio concreto
+fpn_0303_a0,no_valido,Mezcla varios oradores e interrupciones
+fpn_0303_a1,no_valido,"Fragmento truncado e inconexo, parece mezclar réplicas"
+fpn_0304_a0,sin_falacia,"Opinión breve sobre la cuestión catalana, sin falacia"
+fpn_0304_d0,sin_falacia,Enumera cuestiones territoriales concretas a tratar
+fpn_0305_d0,sin_falacia,Expone su postura sobre independencia y referéndum
+fpn_0306_a0,sin_falacia,Explica su interpretación del caso de la policía patriótica
+fpn_0310_d0,sin_falacia,Apoya su afirmación en un documento publicado en la web de Moncloa
+fpn_0311_a0,no_valido,Frase suelta sin contenido argumentativo
+fpn_0311_a1,sin_falacia,Insiste en que se responda una pregunta
+fpn_0312_d0,no_valido,Mezcla moderador y varios oradores interrumpiéndose
+fpn_0314_a0,falacia,Ad hominem/falsa causa: culpa al socialismo y liga Sánchez a Zapatero
+fpn_0314_d0,dudoso,"Logros, pero asocia a Sánchez con Zapatero ('su maestro') para desacreditar"
+fpn_0315_a0,no_valido,"Interrupción y gestión del turno, sin contenido completo"
+fpn_0315_a1,dudoso,"Gestión de turno y pulla personal 'le duele la verdad', posible ad hominem"
+fpn_0315_a2,dudoso,Atribuye al rival que le duele la subida; posible hombre de paja
+fpn_0315_a3,sin_falacia,Propuestas concretas con cifras sobre pensiones
+fpn_0317_d0,no_valido,Incluye reparto de turnos del moderador
+fpn_0317_d1,dudoso,Acusa al rival de discurso del miedo con lenguaje emotivo
+fpn_0318_a0,no_valido,Mezcla moderador y candidata
+fpn_0318_a1,no_valido,"Sin contenido argumentativo, comentario sobre cómo nombrar al partido"
+fpn_0318_a2,falacia,Ad hominem: descalifica al rival asociándolo a corrupción (3%)
+fpn_0318_a3,no_valido,Interrupción y transcripción confusa
+fpn_0318_d0,falacia,Ad hominem: llama supremacista al rival
+fpn_0319_a0,no_valido,Puro trámite: aclaración del nombre del partido
+fpn_0319_a1,no_valido,Mezcla moderador y orador
+fpn_0319_a2,sin_falacia,Explicación razonada de empobrecimiento
+fpn_0319_d0,sin_falacia,Argumento sobre salarios y pensiones con dato de contratos
+fpn_0320_d0,dudoso,Desvía hacia el presupuesto de Andalucía: posible pista falsa
+fpn_0321_d0,dudoso,Sugiere que bajar impuestos causó más recaudación; posible falsa causalidad
+fpn_0323_a0,no_valido,"Sin contenido argumentativo, frases sueltas sin contexto"
+fpn_0323_a1,falacia,Ad hominem/hombre de paja: 'algunos solo ofrecen banderas'
+fpn_0324_d0,no_valido,"Solo introduce un tema, sin contenido argumentativo"
+fpn_0325_a0,dudoso,Reformula la postura rival (ricos que reciben); posible hombre de paja
+fpn_0325_a1,dudoso,"""Sociedad enferma"": posible apelación a la emoción"
+fpn_0326_a0,no_valido,Mezcla varios oradores
+fpn_0326_a1,dudoso,Ataque personal y atribución de postura; transcripción confusa
+fpn_0326_a2,falacia,"Apelación a la emoción/identidad: ""amo Cataluña"""
+fpn_0326_a3,falacia,Apelación a la identidad: sentir Cataluña como tierra de todos
+fpn_0326_a4,sin_falacia,Crítica concreta al gasto en un referéndum ilegal
+fpn_0326_d0,no_valido,Fragmento demasiado breve y dependiente del contexto
+fpn_0327_d0,dudoso,Confuso; cierra con apelación vaga a España de todos
+fpn_0328_a0,sin_falacia,Propuesta política concreta: modelo federal
+fpn_0328_a1,no_valido,"Fragmento incompleto, no se entiende"
+fpn_0328_d0,no_valido,Moderador introduciendo bloque
+fpn_0329_a0,no_valido,"Transcripción confusa, no se entiende bien"
+fpn_0329_a1,no_valido,Mezcla comentario del moderador y preguntas de candidatos
+fpn_0329_d0,no_valido,"Frases inconexas, no se entiende sin contexto"
+fpn_0330_a0,sin_falacia,Informa de leyes sociales adoptadas antes
+fpn_0330_a1,sin_falacia,Crítica con ejemplo concreto de recurso al Constitucional
+fpn_0330_d0,sin_falacia,Describe la colaboración del gobierno catalán en rescates
+fpn_0330_d1,sin_falacia,Introduce un tema respondiendo a una crítica
+fpn_0331_a0,no_valido,Mezcla varios oradores y moderador
+fpn_0331_a1,no_valido,"Fragmento incompleto, se corta a mitad de frase"
+fpn_0332_a0,dudoso,Usa el historial del rival para negarle hablar del tema: posible ad hominem
+fpn_0332_d0,no_valido,Respuesta breve sin contenido ni contexto
+fpn_0334_a0,falacia,Apelación al miedo y ad hominem ('los del 3%')
+fpn_0334_a1,dudoso,"""Emergencia nacional"" sin razones; posible apelación al miedo"
+fpn_0335_a0,dudoso,Mezcla temas; cita encuestas y a su líder como respaldo
+fpn_0335_a1,dudoso,Inicio confuso; posible apelación a la identidad catalana
+fpn_0335_a2,dudoso,'Elija entre' sugiere falso dilema; fragmento cortado
+fpn_0335_d0,dudoso,Agrupa a todos los rivales como apoyos de Sánchez; posible generalización
+fpn_0337_d0,falacia,Ad hominem: 'es una vergüenza' contra el rival
+fpn_0337_d1,falacia,Ad hominem al PSOE ('ni obrero ni español') y ad populum
+fpn_0337_d2,dudoso,"Incoherente, posible mezcla de oradores y tono emotivo"
+fpn_0338_a0,falacia,Apelación al miedo: 'tripartito de derechas que viene con la involución'
+fpn_0338_a1,falacia,"Eslogan de campaña y apelación a la emoción/identidad (presos, exiliados)"
+fpn_0338_a2,falacia,Eslogan: 'la resignación no está en nuestro diccionario'
+fpn_0340_d0,falacia,Enumeración emotiva repetitiva y 'nos lo piden miles': emoción y ad populum
+fpn_0340_d1,dudoso,"Contraposición futuro/pasado, posible falso dilema u hombre de paja"
+fpn_0340_d2,no_valido,Mezcla petición de voto con intervención del moderador
+fpn_0341_a0,no_valido,"Dedicatoria a víctimas, puro trámite sin argumento"
+fpn_0342_a0,no_valido,"Mezcla al moderador ('Señor Sánchez, su turno') con el orador"
+fpn_0342_a1,falacia,Hombre de paja: caricaturiza la postura del rival
+fpn_0342_a2,falacia,Hombre de paja: caricaturiza el relato de la derecha
+fpn_0342_a3,dudoso,"Lenguaje vago y grandilocuente, posible eslogan o apelación a la emoción"
+fpn_0343_a0,sin_falacia,Propuesta concreta con cifras de ahorro
+fpn_0343_a1,dudoso,Posible falsa causa y generalización contra varios gobiernos anteriores
+fpn_0344_d0,dudoso,"'Gobierno de los autónomos' tipo eslogan, sin medidas concretas"
+fpn_0345_d0,falacia,"Apelación a la emoción y a lo que ""mucha gente sabe"""
+fpn_0347_d0,sin_falacia,Postura sobre impuestos moderados con su razón
+fpn_0348_a0,sin_falacia,Postura sobre sucesiones con hechos parlamentarios
+fpn_0349_a0,sin_falacia,Crítica con datos de impuestos y desaceleración
+fpn_0350_a0,sin_falacia,Propuestas fiscales concretas
+fpn_0350_a1,sin_falacia,Argumenta la relación entre financiación bancaria e impuestos a la banca
+fpn_0350_d0,sin_falacia,Explica una propuesta fiscal redistributiva
+fpn_0352_a0,dudoso,Atribuye la devaluación salarial al PP; posible falsa causa
+fpn_0352_a1,falacia,"Eslogan y falsa causalidad: entra el PSOE, sale el empleo"
+fpn_0352_d0,dudoso,Comparación retórica que puede deformar la postura del PSOE
+fpn_0352_d1,no_valido,Mezcla candidato y moderador gestionando tiempos
+fpn_0353_d0,sin_falacia,Condición para un acuerdo: cambio a políticas de bajada de impuestos
+fpn_0355_d0,sin_falacia,Propuesta concreta para familias monoparentales
+fpn_0356_d0,no_valido,"Empieza con el moderador dando turno (""Señor Iglesias."")"
+fpn_0359_d0,dudoso,Afirmación general sin apoyo; posible generalización apresurada
+fpn_0362_a0,falacia,Ad hominem: descalifica a Rivera por su historial de contradicciones
+fpn_0362_d0,no_valido,Intercambio entre varios oradores sobre el chalet
+fpn_0364_d0,sin_falacia,Logro concreto con cifra
+fpn_0365_d0,sin_falacia,Presenta datos de revalorización de pensiones
+fpn_0365_d1,sin_falacia,Compara revalorización de pensiones por gobiernos
+fpn_0365_d2,dudoso,Reproche personal al rival; posible ad hominem
+fpn_0366_a0,sin_falacia,Propuesta de educación gratuita apoyada en la Constitución
+fpn_0366_a1,no_valido,Moderador gestionando el tiempo
+fpn_0366_a2,sin_falacia,Rebate con un dato de revalorización de pensiones
+fpn_0366_a3,falacia,Ad hominem: '¿cómo se puede tener tanta cara dura?'
+fpn_0366_d0,dudoso,Enumeración emotiva de males sin argumento
+fpn_0368_a0,no_valido,"Mezcla de oradores ('No está aprobada, señor Casado')"
+fpn_0368_d0,sin_falacia,Propuesta concreta de tarjeta sanitaria
+fpn_0369_a0,no_valido,Mezcla frase de orador con moderador sobre tiempos
+fpn_0369_a1,sin_falacia,"Reivindica debatir propuestas, sin falacia"
+fpn_0371_a0,dudoso,Declaración identitaria sin argumentos; posible apelación a la identidad
+fpn_0371_d0,falacia,"Apelación al miedo/identidad: ""los que quieren liquidar España"""
+fpn_0372_d0,dudoso,Apela a sentimientos e identidades de los españoles; posible apelación a identidad
+fpn_0372_d1,dudoso,Introduce apelación a lo que une a los ciudadanos; posible identidad
+fpn_0376_d0,sin_falacia,Declaración de postura sobre indultos sin falacia
+fpn_0376_d1,dudoso,Errores de transcripción y apelación al respeto al país
+fpn_0380_a0,sin_falacia,Explica la moción de censura y su motivo
+fpn_0381_d0,falacia,Falso dilema: votar sí o no a España
+fpn_0383_d0,falacia,Falso dilema: solo el PSOE puede frenar a las derechas
+fpn_0384_d0,dudoso,Afirmación sin argumento contra el PSOE
+fpn_0386_a0,dudoso,'Se abraza a la ultraderecha' puede ser envenenar el pozo
+fpn_0390_d0,falacia,Apelación a la identidad y eslogan ('Yo digo sí a España')
+fpn_0390_d1,sin_falacia,"Pide claridad sobre pactos, sin lenguaje emotivo marcado"
+fpn_0390_d2,dudoso,"Propuestas, pero insinúa cobardía del rival"
+fpn_0391_a0,sin_falacia,"Disposición a pactar, afirmación neutra"
+fpn_0394_a0,falacia,"Eslogan: vamos a ganar, vamos Ciudadanos, vamos España"
+fpn_0395_d0,no_valido,Moderador dando turno a Rivera
+fpn_0396_a0,sin_falacia,Respuesta razonable sobre decisiones de otro partido
+fpn_0396_d0,sin_falacia,"Recuerda una postura anterior del rival, informativo"
+fpn_0397_a0,sin_falacia,Informa de un hecho parlamentario
+fpn_0397_a1,sin_falacia,Diferencia su partido por no haber pactado con Sánchez
+fpn_0400_a0,sin_falacia,Aclara el motivo de la moción y defiende su postura
+fpn_0401_a0,no_valido,Moderador dando la palabra
+fpn_0403_d0,dudoso,Posible mezcla de oradores y analogía de temperaturas
+fpn_0404_d0,falacia,Falsa analogía/ad hominem con Zapatero y Grecia
+fpn_0406_d0,sin_falacia,Postura sobre pensiones basada en cumplir la Constitución
+fpn_0408_a0,no_valido,Pregunta del periodista/moderador
+fpn_0408_d0,sin_falacia,Propuestas fiscales concretas con cifras
+fpn_0409_d0,no_valido,Puro trámite sin contenido
+fpn_0410_d0,falacia,Hombre de paja: atribuye a Podemos querer permitir la ocupación
+fpn_0411_a0,falacia,Apelación al miedo: ocupación de viviendas dirigida a familias
+fpn_0412_a0,dudoso,Imagen emotiva del paro con posible apelación a la emoción; final confuso
+fpn_0412_d0,sin_falacia,Explica una propuesta concreta de ley antiocupación
+fpn_0414_a0,sin_falacia,Declara postura y compromiso de acatar al Constitucional
+fpn_0414_a1,dudoso,Se atribuye autoridad en feminismo; posible apelación a autoridad
+fpn_0415_a0,no_valido,Frase sin contenido comprensible
+fpn_0417_a0,sin_falacia,Explica una medida concreta sobre concertinas
+fpn_0417_a1,sin_falacia,Afirmación simple sobre la migración
+fpn_0417_a2,sin_falacia,Informa de alertas de inteligencia desde 2015
+fpn_0419_a0,sin_falacia,Propuesta concreta de inmigración regular
+fpn_0419_a1,sin_falacia,Argumento sobre inmigración legal e irregular
+fpn_0419_d0,dudoso,Tautología sin contenido; posible eslogan o pista falsa
+fpn_0419_d1,sin_falacia,Explica política migratoria y de asilo distinguiendo casos
+fpn_0419_d2,sin_falacia,Propuesta de pacto de Estado con razones
+fpn_0420_a0,dudoso,"Solo expresa indignación, sin argumento; posible apelación a la emoción"
+fpn_0421_a0,dudoso,Crítica por incoherencia con 'un partido que se dice liberal'; posible ad hominem
+fpn_0424_a0,sin_falacia,Rechazo directo de una acusación
+fpn_0425_a0,dudoso,Atribuye frases a Vox; posible hombre de paja
+fpn_0425_a1,dudoso,Ataque a un rival por sus declaraciones; posible ad hominem
+fpn_0426_d0,no_valido,Cortado e incompleto
+fpn_0427_a0,sin_falacia,Crítica argumentada al poder de la Iglesia en educación
+fpn_0427_a1,sin_falacia,Afirma un hecho y un logro propio sobre el pacto educativo
+fpn_0427_d0,sin_falacia,Compromiso concreto de pacto educativo
+fpn_0427_d1,sin_falacia,Compromiso concreto con plazo
+fpn_0427_d2,sin_falacia,Explica con hecho concreto la ruptura del pacto educativo
+fpn_0430_a0,sin_falacia,Lista de propuestas educativas concretas
+fpn_0430_d0,sin_falacia,Lista de propuestas educativas concretas
+fpn_0431_a0,no_valido,Mezcla al orador con el moderador dando turno
+fpn_0431_d0,sin_falacia,Propuesta con dato de inversión en I+D y objetivo concreto
+fpn_0431_d1,sin_falacia,Propuesta educativa concreta
+fpn_0431_d2,falacia,Falso dilema: 'esto va de público o de privado'
+fpn_0432_a0,no_valido,"Puro trámite, sin contenido"
+fpn_0432_a1,sin_falacia,Dato de deuda y propuestas sanitarias concretas
+fpn_0433_a0,sin_falacia,Defensa razonada sobre corrupción y propuesta sanitaria
+fpn_0435_a0,no_valido,"Mezcla moderador (""hemos dado el turno"") y orador"
+fpn_0435_a1,sin_falacia,"Reconoce un hecho, sin falacia"
+fpn_0435_d0,dudoso,Fragmento confuso con acusaciones; posible ad hominem
+fpn_0435_d1,sin_falacia,Anuncia que corregirá afirmaciones sobre sanidad; sin falacia
+fpn_0436_a0,no_valido,Intervención del moderador sobre preguntas
+fpn_0439_a0,falacia,Apelación a la emoción: amenaza de muerte personal
+fpn_0440_a0,falacia,Eslogan: 'el PP es el antídoto contra el separatismo'
+fpn_0441_a0,dudoso,Ironía que insinúa pactos con separatistas; posible ad hominem
+fpn_0441_a1,dudoso,Etiqueta a rivales como separatistas; posible falso dilema
+fpn_0441_d0,no_valido,Intervención del moderador
+fpn_0442_a0,no_valido,Moderador presentando el minuto de oro
+fpn_0442_a1,dudoso,'Adelante' del moderador y logros grandilocuentes; posible apelación identitaria
+fpn_0442_d0,no_valido,Intervención del moderador sobre el orden de turnos
+fpn_0444_a0,falacia,Apelación a la emoción: petición de voto
+fpn_0444_a1,no_valido,Intervención del moderador
+fpn_0447_a0,sin_falacia,Cita literal de una declaración del rival
+fpn_0448_d0,dudoso,"Transcripción confusa; cita actores como prueba, posible autoridad"
+fpn_0450_a0,no_valido,Repetición de una pregunta sin contenido entendible
+fpn_0450_d0,no_valido,Mezcla moderador y orador
+fpn_0451_a0,dudoso,Alerta del auge totalitario sin datos; posible apelación al miedo
+fpn_0451_d0,no_valido,Fragmento cortado y sin sentido claro
+fpn_0451_d1,falacia,"Generalización apresurada: ""siempre hacéis lo mismo"" sin casos"
+fpn_0452_d0,sin_falacia,Crítica al sistema electoral con datos comparados
+fpn_0453_a0,sin_falacia,Crítica con datos sobre reglas del grupo parlamentario
+fpn_0454_d0,sin_falacia,Lista de medidas económicas
+fpn_0455_d0,no_valido,Fragmento incompleto e interrumpido
+fpn_0456_a0,no_valido,No se entiende por errores de transcripción
+fpn_0456_d0,sin_falacia,"Dato de deuda por familia, informativo"
+fpn_0456_d1,sin_falacia,Explica el coste de la deuda
+fpn_0456_d2,no_valido,Fragmento suelto sin contenido entendible
+fpn_0456_d3,sin_falacia,Crítica al modelo de deuda con dato
+fpn_0458_a0,sin_falacia,Crítica al endeudamiento con tono duro
+fpn_0458_d0,falacia,Ad hominem y apelación a la identidad (no levantarse ante la bandera)
+fpn_0458_d1,dudoso,Posible tergiversación de lo dicho por Sánchez (hombre de paja)
+fpn_0458_d2,dudoso,Comparación con otros países y causalidad discutible
+fpn_0461_a0,dudoso,"Argumento sobre cuidados con 'horizonte morado/verde', tipo eslogan"
+fpn_0461_a1,dudoso,"Comentario personal sin argumento, posible ironía ad hominem"
+fpn_0461_a2,dudoso,Generaliza 'hacéis lo contrario' desde un solo ejemplo
+fpn_0461_a3,dudoso,Insinuación de puertas giratorias; posible ad hominem
+fpn_0461_d0,sin_falacia,Propuesta alternativa de política pública sin falacia
+fpn_0462_a0,dudoso,Liga bajada de impuestos y caída de ingresos; posible falsa causalidad
+fpn_0462_a1,dudoso,'Entérate un poquito' y reproche; posible ad hominem
+fpn_0462_d0,falacia,Apelación al miedo: 'que nunca necesiten la sanidad pública'
+fpn_0463_d0,no_valido,Pregunta retórica incompleta sin contenido evaluable
+fpn_0463_d1,falacia,Ad populum: 'como todo el mundo sabe'
+fpn_0464_a0,no_valido,Parece mezclar dos oradores
+fpn_0464_a1,sin_falacia,Responde con un dato de tasa de paro
+fpn_0465_a0,no_valido,Empieza con frase del moderador ('su último tiempo')
+fpn_0465_a1,falacia,Apelación a la autoridad: 'como mandan los estándares europeos'
+fpn_0465_a2,sin_falacia,Explica medidas laborales concretas
+fpn_0466_d0,sin_falacia,Argumenta con un caso judicial concreto
+fpn_0467_a0,no_valido,Mezcla moderador y varios oradores
+fpn_0467_a1,no_valido,"Transcripción confusa, no se entiende el argumento"
+fpn_0468_a0,sin_falacia,"Propone debatir con evidencia, sin falacia"
+fpn_0468_d0,no_valido,Puro trámite: anuncia el tema sin contenido
+fpn_0469_a0,dudoso,Desvía a inmigración en turno de clima: posible pista falsa
+fpn_0469_d0,falacia,Apelación a la emoción/ad populum: 'a muchísima gente se le revuelve el estómago'
+fpn_0470_a0,no_valido,"Inicio confuso, posible mezcla de turnos"
+fpn_0470_d0,sin_falacia,Lista de propuestas concretas con cifras
+fpn_0471_d0,dudoso,"""Como ha dicho alguno"": posible hombre de paja"
+fpn_0472_a0,sin_falacia,Propuesta contra la despoblación y desigualdad territorial
+fpn_0472_a1,falacia,Generalización apresurada: 'impone siempre la izquierda'
+fpn_0472_a2,dudoso,Caracteriza la agenda de la izquierda de forma tajante; posible hombre de paja
+fpn_0472_d0,falacia,Falsa causa: culpa al rival de los incendios
+fpn_0472_d1,sin_falacia,Crítica concreta a la coordinación autonómica de incendios
+fpn_0472_d2,falacia,Generalización/ad hominem: 'la izquierda no entiende nada de preservación'
+fpn_0472_d3,sin_falacia,Propuesta de fiscalidad verde con dato
+fpn_0475_a0,dudoso,Propuesta con contraposición constitucionalistas/separatistas; posible falso dilema
+fpn_0475_d0,no_valido,Mezcla al moderador repartiendo turno con un candidato
+fpn_0476_a0,dudoso,Insinúa pacto sin razones; posible envenenar el pozo
+fpn_0477_a0,sin_falacia,Repasa posiciones de los partidos sobre pactar con Sánchez
+fpn_0477_d0,falacia,Falso dilema: o Vox fuerte o pacto con Sánchez
+fpn_0478_a0,dudoso,Reduce la moción a unos párrafos: posible simplificación/hombre de paja
+fpn_0478_a1,no_valido,"Parece comentario de periodista, confuso sin contexto"
+fpn_0478_a2,no_valido,Fragmento entrecortado que parece mezclar oradores
+fpn_0479_a0,sin_falacia,Previsión razonada sobre gobierno de coalición
+fpn_0480_a0,sin_falacia,"Crítica concreta a una actuación, sin recurso falaz"
+fpn_0480_a1,dudoso,Equipara negociación con moción de censura; posible falsa analogía
+fpn_0480_a2,dudoso,Cortado justo al iniciar apelación emotiva a madres y abuelas
+fpn_0480_d0,dudoso,"Atribuye intenciones ocultas al rival, posible hombre de paja"
+fpn_0480_d1,dudoso,"Atribuye a todos apoyar a Sánchez, posible hombre de paja"
+fpn_0481_a0,dudoso,"Atribuye intenciones al rival, frase incompleta; posible hombre de paja"
+fpn_0481_d0,sin_falacia,Crítica razonada sobre aceptar la abstención del PP
+fpn_0481_d1,falacia,"Pendiente resbaladiza y miedo: ""la deriva será brutal"""
+fpn_0482_d0,falacia,Ad hominem: Casado como Jekyll y Hyde
+fpn_0485_a0,falacia,"Eslogan: 'contra su venganza, nuestra victoria'"
+fpn_0485_a1,sin_falacia,Afirmación simple sin falacia
+fpn_0486_a0,falacia,Falso dilema: solo votando a un partido habrá gobierno
+fpn_0487_a0,falacia,Apelación a la emoción: pide el voto con esperanza
+fpn_0487_d0,falacia,Petición de voto con lenguaje emotivo: apelación a la emoción
+fpn_0488_a0,falacia,Eslogan repetido 'vayan a votar' y apelación a la emoción
+fpn_0488_d0,falacia,Generalización/envenenar el pozo: PP y PSOE nunca cumplen
+fpn_0489_d0,dudoso,"Introduce anécdota personal, posible apelación a la emoción"
+fpn_0489_d1,dudoso,"Relato personal de cuidadora, posible apelación a la emoción"
+fpn_0491_a0,falacia,Ad hominem ('puro franquismo') y apelación a Europa como autoridad
+fpn_0491_a1,no_valido,Moderador dando la palabra
+fpn_0491_d0,no_valido,Mezcla moderador y orador
+fpn_0493_a0,no_valido,Pregunta del moderador
+fpn_0493_a1,no_valido,"Mezcla moderador (""Un minuto tienen"") y orador"
+fpn_0493_a2,dudoso,"'Fuimos todos en masa' como respaldo, posible ad populum"
+fpn_0493_d0,dudoso,Posible falso dilema: presenta una única opción posible de gobierno
+fpn_0493_d1,no_valido,Incluye intervención del moderador al final
+fpn_0495_d0,falacia,Ad hominem a PP y PSOE y eslogan del 'centro más necesario que nunca'
+fpn_0495_d1,no_valido,Mezcla petición de confianza con intervención del moderador
+fpn_0495_d2,no_valido,"Incluye turno del moderador ('Noelia Vera, un minuto')"
+fpn_0496_a0,no_valido,"Mezcla cierre de candidato, moderador y otro orador"
+fpn_0496_a1,dudoso,Llamamiento genérico al diálogo; posible apelación a la emoción o eslogan
+fpn_0496_d0,no_valido,Mezcla moderador y candidata
+fpn_0497_d0,no_valido,Mezcla moderador y candidatos
+fpn_0498_a0,no_valido,Errores de transcripción hacen el fragmento confuso
+fpn_0498_d0,no_valido,"Errores de transcripción, sin argumento claro"
+fpn_0499_a0,falacia,"Ad hominem: 'vía criminal', 'falsos constitucionalistas'"
+fpn_0499_a1,sin_falacia,Explica estrategia electoral de sumar votos
+fpn_0499_d0,no_valido,Pregunta del moderador
+fpn_0499_d1,dudoso,Equipara PSOE y PP en Cataluña: posible falsa analogía
+fpn_0501_d0,falacia,Ad populum: se presenta como portavoz de la ciudadanía
+fpn_0502_a0,dudoso,Truncado; tono de eslogan ('Ciudadanos es garantía')
+fpn_0503_a0,no_valido,Mezcla orador y moderador
+fpn_0503_d0,sin_falacia,Análisis causal moderado del resultado electoral
+fpn_0503_d1,falacia,"Falso dilema: una sola posibilidad, por el bien de España"
+fpn_0504_a0,falacia,Ad populum: 'lo sabe todo el mundo'
+fpn_0504_d0,falacia,Generalización apresurada: 'no han sido capaces de hacer nada'
+fpn_0505_a0,no_valido,"Frase interrumpida y queja de turno, sin contenido"
+fpn_0505_d0,no_valido,Pregunta del moderador
+fpn_0506_a0,sin_falacia,Argumenta con un precedente concreto de investidura
+fpn_0506_d0,no_valido,Pregunta del moderador
+fpn_0508_a0,no_valido,"""Adelante"" de otra voz; mezcla turnos"
+fpn_0508_d0,dudoso,Insinúa presiones de poderosos sin pruebas: posible falsa causalidad
+fpn_0508_d1,sin_falacia,Crítica sobre la negociación fallida de coalición
+fpn_0508_d2,no_valido,Demasiado corto y sin contexto para entenderse
+fpn_0508_d3,sin_falacia,Relato concreto de concesiones en una negociación
+fpn_0508_d4,sin_falacia,Explica su postura sobre Cataluña y el consenso
+fpn_0508_d5,sin_falacia,Relato de la negociación presupuestaria con ejemplo concreto
+fpn_0508_d6,dudoso,Relato que puede deformar la postura rival; posible hombre de paja
+fpn_0508_d7,dudoso,"""Prefirió irse de vacaciones"": posible caricatura del rival"
+fpn_0508_d8,no_valido,Inicio confuso por transcripción y falta de contexto
+fpn_0508_d9,no_valido,Mezcla moderador y candidato
+fpn_0509_a0,no_valido,"Queja sobre el formato del debate, sin argumento"
+fpn_0509_a1,no_valido,Parece el moderador justificando el reparto de alusiones
+fpn_0509_d0,falacia,Apelación a la autoridad: cita al Parlamento Europeo como garantía
+fpn_0509_d1,sin_falacia,Invita a sumarse y aporta un hecho propio
+fpn_0509_d2,falacia,Hombre de paja: reduce la postura rival a repartirse tajadas de poder
+fpn_0510_a0,dudoso,Descarta lo dicho por el rival sin argumentar
+fpn_0510_d0,no_valido,Moderador repartiendo turnos
+fpn_0510_d1,sin_falacia,Aclara a qué diálogo se refiere
+fpn_0511_d0,no_valido,Parece intervención del moderador resumiendo posturas
+fpn_0512_a0,sin_falacia,Define su idea de diálogo
+fpn_0513_d0,falacia,Ad populum: 'todo el mundo sabe... que esto pasa por el diálogo'
+fpn_0515_a0,falacia,"Ataque personal ('cállese', 'no respeta'): ad hominem"
+fpn_0516_a0,falacia,Hombre de paja (paseo de ministros) y ad hominem (qué toman en casa)
+fpn_0517_a0,no_valido,Frase de trámite sin contenido argumentativo
+fpn_0517_d0,dudoso,Posible apelación a la identidad sobre igualdad de españoles
+fpn_0518_a0,sin_falacia,Pregunta legítima sobre el modelo territorial
+fpn_0518_d0,sin_falacia,"Introduce postura sobre modelo territorial, sin falacia"
+fpn_0518_d1,sin_falacia,"Valoración política y alternativa, sin falacia de la guía"
+fpn_0518_d2,dudoso,"""España fuerte"", ""recuperar afectos"": posible apelación a la identidad"
+fpn_0518_d3,no_valido,Mezcla reparto de turnos del moderador y orador
+fpn_0518_d4,dudoso,Cadena especulativa hacia recortes; posible pendiente resbaladiza
+fpn_0520_a0,no_valido,"Fragmento cortado, no se entiende"
+fpn_0520_d0,sin_falacia,"Llamada al diálogo sobre Cataluña, opinión sin falacia"
+fpn_0520_d1,sin_falacia,Valoración simple de políticas previas sin falacia
+fpn_0520_d2,dudoso,Atribuye motivo oculto al rival; posible ad hominem
+fpn_0520_d3,sin_falacia,Explica su postura y la justifica con razones
+fpn_0521_d0,falacia,Ad hominem/identidad: 'quienes odian a España'
+fpn_0522_d0,falacia,"Falso dilema represión o política, con pregunta cargada"
+fpn_0523_a0,dudoso,Ridiculiza al Constitucional ('primo zumosol'); posible hombre de paja
+fpn_0523_d0,falacia,Responde atacando los resultados del rival: ad hominem
+fpn_0523_d1,no_valido,Moderador anunciando publicidad
+fpn_0524_d0,sin_falacia,Constata un hecho sobre identidad nacional
+fpn_0525_a0,sin_falacia,Postura sobre el estado autonómico
+fpn_0525_d0,dudoso,Generaliza ('siempre') la falta de lealtad del PSOE
+fpn_0525_d1,sin_falacia,Defiende actuaciones concretas de su partido
+fpn_0527_a0,sin_falacia,"Refiere lo dicho por otro orador, sin falacia"
+fpn_0528_a0,sin_falacia,"Enumera una propuesta de diálogo, sin falacia"
+fpn_0528_a1,sin_falacia,Crítica basada en relato de hechos concretos y respuesta del rival
+fpn_0529_a0,no_valido,Mezcla de voces (narrador y candidato)
+fpn_0529_a1,sin_falacia,Explicación de una medida fiscal concreta
+fpn_0529_a2,no_valido,Mezcla periodista y cita de partido
+fpn_0529_a3,sin_falacia,Explica la estructura de una propuesta fiscal concreta
+fpn_0529_a4,sin_falacia,Propuesta fiscal concreta con tipos
+fpn_0530_a0,sin_falacia,Propuesta fiscal concreta con cifras
+fpn_0530_a1,dudoso,Atribuye servicios a buena gestión sin pruebas; posible falsa causalidad
+fpn_0530_a2,dudoso,Bajada de impuestos y más recaudación; posible falsa causa
+fpn_0531_a0,no_valido,"Trámite de turnos, posiblemente del moderador"
+fpn_0531_a1,no_valido,Incluye cambio de bloque del moderador
+fpn_0531_d0,no_valido,"Frase cortada, incompleta"
+fpn_0531_d1,dudoso,Atribuye al rival 'prohibir la república digital'; posible hombre de paja
+fpn_0531_d2,dudoso,Ironía difícil de interpretar sin contexto
+fpn_0531_d3,sin_falacia,Compara datos de déficit y paro
+fpn_0532_a0,sin_falacia,"Postura sobre concierto fiscal, comprensible pese a errores"
+fpn_0532_a1,no_valido,Mezcla presentación del moderador y turno del orador
+fpn_0532_a2,sin_falacia,"Comparación fiscal con datos, aunque mal transcrita"
+fpn_0532_d0,dudoso,"Frase breve rotunda, posible eslogan"
+fpn_0533_d0,sin_falacia,Atribuye bajada de impuestos a un pacto concreto
+fpn_0536_d0,no_valido,"Fragmento incompleto, sin sentido propio"
+fpn_0539_d0,sin_falacia,Argumento sobre fiscalidad progresiva y estado del bienestar
+fpn_0539_d1,sin_falacia,Explica el problema del impuesto de sucesiones
+fpn_0541_a0,sin_falacia,Explica la subida de impuestos por el déficit heredado
+fpn_0542_a0,sin_falacia,"Explica dónde estaban las vacunas, no solo cita autoridad"
+fpn_0542_d0,no_valido,Intervención del moderador sobre el tiempo restante
+fpn_0542_d1,no_valido,Intervención del moderador
+fpn_0544_a0,dudoso,Posible apelación a la identidad vasca sin argumento sustantivo
+fpn_0544_d0,no_valido,Moderador: agradecimiento y turno
+fpn_0545_a0,no_valido,Moderador repartiendo tiempos
+fpn_0545_d0,sin_falacia,Llamamiento al diálogo con una razón explícita
+fpn_0547_a0,no_valido,Reparto de turno del moderador
+fpn_0547_d0,sin_falacia,Compromiso político sobre quién paga una crisis
+fpn_0547_d1,no_valido,Intervención del moderador dando turno
+fpn_0548_a0,falacia,Apelación al miedo: parar a la derecha abrazada a la extrema
+fpn_0549_d0,no_valido,Incluye intervención del moderador dando el turno
+fpn_0550_a0,falacia,"Apelación a la emoción y ad populum ('los españoles nos piden', sueños)"
+fpn_0550_a1,dudoso,"Promesa sin contenido con 'gran compromiso por España', posible apelación a la identidad"
+fpn_0551_a0,no_valido,Mezcla al orador con el moderador dando paso a Casado
+fpn_0551_d0,no_valido,Frase sin contenido
+fpn_0551_d1,sin_falacia,Crítica con hechos sobre investiduras
+fpn_0552_a0,dudoso,"Marco simplificador de la elección, posible eslogan o falso dilema"
+fpn_0552_a1,dudoso,Todo voto ajeno beneficia al rival; posible falso dilema
+fpn_0552_d0,dudoso,Promesa vaga tipo eslogan (gobierno de verdad)
+fpn_0552_d1,no_valido,Mezcla orador y moderador
+fpn_0554_a0,no_valido,Fragmento incompleto que no se entiende
+fpn_0554_a1,dudoso,"Dramatización de la situación en Cataluña, posible apelación al miedo"
+fpn_0554_a2,dudoso,Preguntas retóricas sobre heridos: posible apelación al miedo
+fpn_0554_a3,sin_falacia,Crítica dura pero argumentada sobre la respuesta al anuncio de Torra
+fpn_0555_d0,dudoso,"Propuesta con precedente, pero atribución exagerada a Torra"
+fpn_0555_d1,dudoso,Insinúa falta de libertad para votar; posible apelación al miedo
+fpn_0555_d2,dudoso,'Libertad coaccionada' puede exagerar el peligro; posible apelación al miedo
+fpn_0556_a0,falacia,Apelación a la identidad: orgullo de país diverso sin argumentos
+fpn_0559_a0,no_valido,Mezcla moderador y candidato
+fpn_0560_d0,falacia,Ad hominem: descalifica a Torra como 'no demócrata' sin argumento
+fpn_0561_d0,dudoso,Fragmento incompleto con posible apelación a la identidad
+fpn_0562_d0,falacia,Apelación a la identidad/emoción: españoles que respetan la ley y están olvidados
+fpn_0563_a0,no_valido,Moderador dando turno
+fpn_0563_a1,dudoso,"Pulla burlona sin contexto, posible ad hominem"
+fpn_0563_a2,sin_falacia,Expone una postura sobre modelo territorial
+fpn_0563_a3,falacia,Ad hominem: derecha ignorante y agresiva
+fpn_0563_d0,falacia,Hombre de paja y ad populum: gente harta
+fpn_0563_d1,falacia,Ad hominem: la derecha carece de responsabilidad de Estado
+fpn_0565_d0,falacia,Llama traidores y desleales a otros: ad hominem y apelación a la identidad
+fpn_0565_d1,dudoso,'Les ha castigado': causalidad y tono emotivo sin fundamentar
+fpn_0565_d2,falacia,"Apelación al miedo: ""políticas totalitarias nos han arrebatado las libertades"""
+fpn_0565_d3,no_valido,Mezcla candidato y moderador
+fpn_0568_a0,sin_falacia,Datos de paro del último trimestre
+fpn_0568_d0,sin_falacia,Crítica con cifras de gasto concretas
+fpn_0570_d0,sin_falacia,Propuesta concreta: ley de familias
+fpn_0571_d0,no_valido,"Transcripción confusa, no se entiende"
+fpn_0572_d0,sin_falacia,Explica riesgos económicos externos concretos
+fpn_0573_d0,falacia,Ad hominem: descalifica al partido rival en vez de argumentar
+fpn_0574_a0,dudoso,"Enumeración rotunda sin datos, tipo eslogan"
+fpn_0574_a1,sin_falacia,Dato concreto sobre subida de pensiones
+fpn_0574_a2,sin_falacia,Enumera logros concretos en pensiones
+fpn_0574_d0,sin_falacia,Logro concreto con cifra de contratos regularizados
+fpn_0574_d1,sin_falacia,Lista de logros concretos en empleo
+fpn_0575_a0,sin_falacia,Propuestas concretas sobre pensiones con razonamiento
+fpn_0576_d0,sin_falacia,Propuesta concreta: selectividad única
+fpn_0577_a0,dudoso,Propuesta que presupone adoctrinamiento sin justificarlo
+fpn_0577_d0,sin_falacia,Expone sus prioridades de gobierno sin recurso falaz claro
+fpn_0577_d1,sin_falacia,Señala el paro como problema principal
+fpn_0577_d2,sin_falacia,Propuesta concreta de contratos indefinidos
+fpn_0578_a0,sin_falacia,Propuesta concreta sobre cuota de autónomos
+fpn_0579_a0,sin_falacia,Introduce el tema de las pensiones y su relevancia
+fpn_0580_a0,falacia,"Falso dilema: 'hay dos modelos, hay dos opciones'"
+fpn_0582_a0,falacia,"Ad hominem: 'le gustan mucho las trampas', asociación con Otegi y Torra"
+fpn_0584_a0,sin_falacia,Lista de propuestas concretas en sanidad y educación
+fpn_0584_d0,dudoso,Posible pista falsa: desvía política social a inmigración
+fpn_0584_d1,falacia,Apelación al miedo y generalización con anécdota de centro de menas
+fpn_0584_d2,sin_falacia,"Dato concreto sobre la Comunidad de Madrid, sin falacia"
+fpn_0584_d3,dudoso,"Cortado; insinúa peligro de 'manadas', posible apelación al miedo"
+fpn_0584_d4,falacia,Apelación al miedo vinculando manadas con extranjeros
+fpn_0584_d5,sin_falacia,Rechaza lecciones y aporta datos sobre plantillas policiales
+fpn_0584_d6,sin_falacia,Dato concreto de reducción de inmigración irregular
+fpn_0585_a0,sin_falacia,Propuesta concreta sobre la factura de la luz
+fpn_0585_a1,sin_falacia,Propuesta concreta contra las puertas giratorias
+fpn_0585_a2,sin_falacia,"Afirmación breve de objetivo político, sin falacia"
+fpn_0585_d0,sin_falacia,Afirmación sobre desigualdad territorial sin falacia
+fpn_0585_d1,falacia,Falsa causa y exageración: 17 tipos de españoles por las autonomías
+fpn_0585_d2,sin_falacia,Crítica razonada sobre diputaciones y despoblación
+fpn_0586_a0,no_valido,Mezcla pregunta del moderador y respuesta del candidato
+fpn_0586_d0,dudoso,"Atribuye motivos interesados al rival, posible ad hominem circunstancial"
+fpn_0587_a0,falacia,Ad hominem: 'el verdadero peligro para la democracia es usted'
+fpn_0587_d0,sin_falacia,Explicación del sistema parlamentario según la Constitución
+fpn_0588_a0,sin_falacia,Argumenta con ejemplos que es un sistema parlamentario
+fpn_0588_a1,sin_falacia,Pide claridad sobre pactos y señala posibles alianzas
+fpn_0588_a2,no_valido,Fragmento cortado y confuso
+fpn_0589_a0,sin_falacia,Responde a acusación y expone su plan de gobierno
+fpn_0590_d0,falacia,Pregunta compleja y miedo: supremacistas violentos
+fpn_0591_d0,no_valido,"Comentario sobre la marcha del debate, sin contenido argumentativo"
+fpn_0592_a0,dudoso,Insinúa información sobre los ERE; posible envenenar el pozo
+fpn_0592_a1,falacia,Pregunta compleja/envenenar el pozo: dimitir sí o no
+fpn_0594_a0,falacia,Generalización de un caso y ad hominem sobre historia del PSOE
+fpn_0594_a1,no_valido,"Puro trámite, sin contenido"
+fpn_0596_a0,no_valido,Frase suelta sin contenido
+fpn_0596_a1,dudoso,Niega legitimidad al rival sin argumento; posible ad hominem
+fpn_0596_a2,falacia,Apelación a la emoción: amenazas de ETA como argumento
+fpn_0596_d0,falacia,Apelación a la emoción/miedo: 'viejos odios del pasado'
+fpn_0597_a0,falacia,Ad hominem: paseos por herriko tabernas para descalificar al rival
+fpn_0597_a1,no_valido,"Frase confusa, no se entiende el argumento"
+fpn_0597_d0,no_valido,Intervención del moderador ('Tiene la palabra...')
+fpn_0599_a0,dudoso,"""Lo que usted hace siempre"": posible ad hominem"
+fpn_0599_a1,no_valido,Mezcla de dos oradores
+fpn_0600_a0,no_valido,"Frase incompleta y confusa, no se entiende la idea"
+fpn_0600_a1,dudoso,Habla por los ciudadanos; posible ad populum
+fpn_0601_a0,falacia,Eslogan vacío: 'un gobierno que mire al futuro'
+fpn_0602_a0,dudoso,Desvía hacia la violencia de ERC y la CUP; posible pista falsa
+fpn_0604_d0,sin_falacia,Propuesta concreta de reforma legal contra la prescripción
+fpn_0605_a0,no_valido,Intervención del moderador
+fpn_0605_d0,dudoso,Parafrasea al rival; posible hombre de paja
+fpn_0606_a0,no_valido,Mezcla pregunta del moderador y respuesta del candidato
+fpn_0606_a1,falacia,Apelación al miedo/identidad: nación que deja de serlo
+fpn_0606_a2,sin_falacia,Propuesta concreta de política migratoria
+fpn_0606_d0,falacia,Apelación al miedo e identidad: élites globalistas y mano de obra esclava
+fpn_0606_d1,sin_falacia,Expone una postura sobre inmigración sin recurso falaz
+fpn_0606_d2,no_valido,Incluye intervención del moderador repartiendo turnos
+fpn_0609_a0,dudoso,Un nombramiento como prueba de influencia; posible generalización
+fpn_0609_a1,sin_falacia,Afirmación histórica razonable sobre la migración
+fpn_0609_d1,sin_falacia,Informa de aumento de fondos para integración y menores
+fpn_0609_d2,dudoso,Frase tipo eslogan con adjetivos sin contenido concreto
+fpn_0610_d0,sin_falacia,"Crítica a la gestión del rival, tono duro"
+fpn_0611_d0,dudoso,Reproche por omisión; posible pista falsa
+fpn_0612_d0,sin_falacia,Referencia factual a la cumbre del clima
+fpn_0613_a0,sin_falacia,Explica una propuesta de empresa pública de energía y su motivo
+fpn_0614_a0,sin_falacia,Argumento sobre competencia desleal en condiciones laborales
+fpn_0614_a1,falacia,Falsa causalidad: multilateralismo causa indefensión sin justificar
+fpn_0614_d0,dudoso,Posible apelación al miedo e identidad frente a la UE
+fpn_0614_d1,falacia,"Apelación a la autoridad: Merkel, Macron y PPE como garantía"
+fpn_0615_d0,dudoso,Acusa al Constitucional de servir al separatismo sin pruebas; fragmento cortado
+fpn_0615_d1,dudoso,Culpa al rival de la fuga; posible ad hominem
+fpn_0617_d0,dudoso,Burla sarcástica y fragmentada; posible ad hominem
+fpn_0618_a0,falacia,Ad populum: 'la gente sabe que no'
+fpn_0618_a1,sin_falacia,Propuesta de acuerdo con objetivo concreto
+fpn_0618_a2,no_valido,Mezcla oradores con intervención del moderador
+fpn_0618_d0,sin_falacia,Recuerda apoyo a la moción y plantea tema europeo
+fpn_0619_a0,sin_falacia,"Opinión breve sobre peso de España en la UE, sin falacia"
+fpn_0619_d0,dudoso,Apela a la patria y al Rey sin contexto; posible apelación a identidad
+fpn_0619_d1,no_valido,Intervención del moderador
+fpn_0620_a0,sin_falacia,Petición razonable de aclarar pactos
+fpn_0620_a1,no_valido,Mezcla moderador y orador
+fpn_0620_a2,falacia,Apelación a la identidad: 'somos los latinos de Europa'
+fpn_0620_d0,dudoso,Reproche de incoherencia con carga emotiva; posible hombre de paja
+fpn_0620_d1,sin_falacia,Expone postura sobre dictaduras
+fpn_0622_d0,falacia,'Sí se puede': eslogan
+fpn_0622_d1,falacia,"Apelación a la emoción y eslogan: ""claro que se puede"""
+fpn_0622_d2,falacia,Petición de voto emotiva y repetitiva: apelación a la emoción y eslogan
+fpn_0623_d0,falacia,Deforma la postura de Iglesias: hombre de paja
+fpn_0625_d0,dudoso,"Frase genérica de campaña, posible eslogan"
+fpn_0626_a0,dudoso,Lenguaje emotivo y vago; posible apelación a la emoción
+fpn_0626_d0,no_valido,Mezcla cierre de un orador con turno dado por el moderador
+fpn_0627_a0,no_valido,Intervención del moderador presentando la pregunta
+fpn_0627_a1,no_valido,Moderador dando turno ('Toca el turno de Ciudadanos')
+fpn_0627_a2,sin_falacia,Señala una contradicción concreta sobre pactos
+fpn_0627_d0,falacia,Envenenar el pozo: insinúa pagos a un prostíbulo
+fpn_0628_d0,falacia,Llamada al voto emotiva: apelación a la emoción
+fpn_0629_a0,no_valido,Mezcla preguntas del moderador y respuesta del candidato
+fpn_0629_d0,dudoso,'Deriva peligrosa': posible apelación al miedo o pendiente resbaladiza
+fpn_0629_d1,dudoso,Atribuye al PSOE una postura cerrada ('pase lo que pase'); posible hombre de paja
+fpn_0630_d0,sin_falacia,Relata hechos de pactos pasados
+fpn_0630_d1,sin_falacia,Posición clara sobre la abstención y aspiración electoral
+fpn_0630_d2,no_valido,Parece pregunta del moderador exigiendo respuesta sí o no
+fpn_0631_d0,sin_falacia,Relata ofertas de pacto concretas y su rechazo
+fpn_0632_d0,sin_falacia,Informa de una medida del gobierno
+fpn_0633_a0,sin_falacia,Explica propuesta sobre salario mínimo y diálogo social
+fpn_0633_d0,sin_falacia,Reconoce aciertos y aporta dato de precariedad
+fpn_0633_d1,falacia,Falsa causalidad: atribuye el paro solo a la regulación laboral
+fpn_0634_d0,no_valido,Mezcla al orador con el moderador repartiendo turnos
+fpn_0637_d0,dudoso,Dato que sugiere causa al gobierno de Rajoy; posible falsa causa
+fpn_0638_d0,sin_falacia,Reflexión argumentada sobre la economía y las personas
+fpn_0638_d1,sin_falacia,"Crítica de opinión al sistema económico, sin falacia clara"
+fpn_0639_a0,dudoso,Reproduce postura ajena sin contexto: posible hombre de paja
+fpn_0639_d0,sin_falacia,Propuestas concretas sobre jubilación y pensiones
+fpn_0641_a0,dudoso,Propuesta con datos pero retórica emotiva de grandes contra la gente
+fpn_0641_a1,falacia,Ad hominem: 'el PSOE es una máquina de hacer desempleo'
+fpn_0642_a0,dudoso,Generalización sarcástica ('siempre antes de las elecciones') sin argumentos
+fpn_0642_d0,falacia,"Falso dilema: sin Ciudadanos, las mismas recetas de siempre"
+fpn_0642_d1,dudoso,"Afirmación cargada sin razones, tipo eslogan"
+fpn_0643_a0,dudoso,Alusión despectiva a 'comunistas'; posible ad hominem
+fpn_0644_a0,sin_falacia,Argumento sobre precariedad y cotizaciones
+fpn_0645_a0,dudoso,"Pregunta con premisa implícita sobre intenciones, posible pregunta compleja"
+fpn_0645_d0,dudoso,Etiqueta xenófobo/ultraderecha; posible ad hominem
+fpn_0646_d0,no_valido,Incomprensible por errores de transcripción
+fpn_0647_a0,dudoso,Interrupción con tu quoque y gestión del tiempo; posible ad hominem
+fpn_0648_d0,sin_falacia,Describe una propuesta de bajada de impuestos
+fpn_0649_a0,dudoso,Ataque genérico al rival por no pisar la calle; incompleto
+fpn_0649_d0,no_valido,Empieza con el moderador dando la palabra
+fpn_0650_a0,sin_falacia,Informa de un hecho
+fpn_0651_a0,dudoso,Dato de la CNMC pero acusa al rival de 'escaparse'; posible ad hominem
+fpn_0652_a0,sin_falacia,"Enumera propuestas y gestión concreta: impuestos, corrupción, mercado laboral"
+fpn_0654_a0,sin_falacia,Propuesta concreta de ayuda a jóvenes para hipotecas
+fpn_0655_a0,sin_falacia,Propuesta de vivienda con mecanismo explicado y anécdota personal
+fpn_0656_a0,no_valido,Fragmento sin contenido entendible fuera de contexto
+fpn_0657_a0,falacia,Hombre de paja: caricaturiza al rival como privatizador de todo
+fpn_0658_d0,dudoso,Confuso; posible tu quoque o pista falsa
+fpn_0658_d1,sin_falacia,Opinión razonada sobre democracia y poderes económicos
+fpn_0659_a0,falacia,Ad hominem: llama 'desalmado' a la rival
+fpn_0659_a1,no_valido,Fragmento cortado sin contenido
+fpn_0659_d0,sin_falacia,Argumenta la relación entre servicios públicos e igualdad
+fpn_0660_a0,falacia,Apelación a la emoción: 'se les rasga el alma'
+fpn_0661_d0,dudoso,Indignación con posible exageración del poder del PNV
+fpn_0663_a0,dudoso,Frase suelta que apela al sufrimiento; posible apelación a la emoción
+fpn_0663_a1,falacia,Pendiente resbaladiza/miedo: otras regiones acabarán como Cataluña
+fpn_0663_d0,sin_falacia,Crítica con argumento de desigualdad territorial
+fpn_0664_a0,sin_falacia,Propuesta sobre financiación autonómica para zonas concretas
+fpn_0664_d0,falacia,Apelación a la identidad: 'los que quieren romper España'
+fpn_0664_d1,sin_falacia,Crítica dura pero argumentada al proyecto secesionista
+fpn_0667_a0,falacia,"Apelación al miedo (niños adoctrinados, señalados) y eslogan final"
+fpn_0668_d0,dudoso,Insinuación incompleta; posible envenenar el pozo
+fpn_0668_d1,dudoso,"Insinúa instrucciones de Puigdemont, texto confuso; posible ad hominem"
+fpn_0668_d2,sin_falacia,Explica lo que establece la ley de partidos
+fpn_0668_d3,no_valido,Moderador repartiendo turnos
+fpn_0669_d0,sin_falacia,"Defiende una solución política, sin falacia clara"
+fpn_0670_d0,no_valido,Mezcla moderador y orador
+fpn_0673_d0,dudoso,Insinúa que el rival miente sin argumentarlo
+fpn_0673_d1,dudoso,Afirmación vaga sobre riqueza cultural de España; posible apelación a la identidad
+fpn_0674_d0,falacia,Asocia al rival con política totalitaria: ad hominem
+fpn_0675_a0,dudoso,Lenguaje cargado (totalitarismo); posible exageración o miedo
+fpn_0676_a0,no_valido,Mayoritariamente moderador
+fpn_0676_a1,falacia,Apelación a la identidad: 'la voz de la España viva'
+fpn_0677_a0,falacia,Eslogan y apelación a la identidad: 'alternativa patriótica'
+fpn_0677_d0,falacia,"Apelación a la emoción: nuestras hijas, más cansadas y con renuncia"
+fpn_0677_d1,no_valido,Mezcla cierre emotivo pidiendo voto con el moderador
+fpn_0678_d0,falacia,Petición de voto emotiva y generacional: apelación a la emoción
+fpn_0679_a0,falacia,Eslogan repetitivo sin argumento
+fpn_0680_a0,dudoso,Habla en nombre de 'los españoles'; posible ad populum o identidad
+fpn_0680_a1,sin_falacia,Argumento sobre estabilidad de gobierno y economía
+fpn_0680_d0,no_valido,Frase de trámite sin contenido
+fpn_0680_d1,sin_falacia,Crítica basada en un dato de empleo
+fpn_0681_d0,dudoso,Subida de alimentos 'desde que usted ha llegado': posible falsa causalidad
+fpn_0681_d1,sin_falacia,Dato de inflación y pregunta sobre un voto concreto
+fpn_0681_d2,no_valido,Dato suelto sin contexto y queja por el turno de palabra
+fpn_0681_d3,sin_falacia,"Crítica apoyada en datos de hipotecas, alquileres e impuestos"
+fpn_0681_d4,falacia,Ad hominem por asociación con Zapatero; además cruce de oradores
+fpn_0682_a0,dudoso,"Datos, pero con pulla ('no somos tontos') posible ad hominem"
+fpn_0685_a0,sin_falacia,Crítica con datos de deuda comparados con la UE
+fpn_0685_a1,sin_falacia,"Afirmación con dato de coste, sin falacia visible"
+fpn_0685_d0,no_valido,Errores de transcripción y posible mezcla de oradores
+fpn_0688_a0,no_valido,Réplica confusa durante una interrupción
+fpn_0688_a1,no_valido,Pregunta suelta sin contexto ni contenido comprensible
+fpn_0689_a0,falacia,Generalización/falsa analogía: 'el PP y Vox son lo mismo'
+fpn_0689_a1,falacia,Pista falsa: desvía la pregunta hacia los pactos con Vox
+fpn_0689_d0,no_valido,Incluye intervención del moderador pidiendo a Feijóo que termine
+fpn_0690_a0,no_valido,Pregunta del moderador
+fpn_0690_a1,falacia,Apelación al miedo: mujeres 'con miedo' por un posible socio
+fpn_0690_d0,falacia,Generalización apresurada: de un caso a 'votan muy juntos'
+fpn_0691_a0,sin_falacia,Enumeración de leyes y constatación de un problema
+fpn_0691_a1,sin_falacia,Dato de condenas y defensa de la ley reconociendo error
+fpn_0691_a2,no_valido,Interrupciones sin contenido argumentativo
+fpn_0692_a0,dudoso,Fragmento inconexo con descalificación ('vergonzosos acuerdos')
+fpn_0692_d0,no_valido,Parece mezclar intervenciones de dos oradores
+fpn_0694_a0,no_valido,Intervención del moderador
+fpn_0694_d0,falacia,Apelación a la emoción y generalización ('siempre con su voto en contra')
+fpn_0696_a0,no_valido,"Mezcla orador y moderador (""tiene un minuto"")"
+fpn_0696_a1,no_valido,Confuso; parece mezclar oradores y frases cortadas
+fpn_0696_d0,no_valido,Intervención del moderador sobre el turno
+fpn_0696_d1,no_valido,"Trámite/réplica sin contenido, transcripción confusa"
+fpn_0700_a0,no_valido,"Frases inconexas, parece mezclar réplica e interrupción"
+fpn_0701_a0,sin_falacia,Compromiso concreto de facilitar la investidura
+fpn_0703_a0,no_valido,Moderador dando la palabra
+fpn_0703_a1,sin_falacia,"Pregunta directa al rival sobre auditorías, sin premisa oculta"
+fpn_0703_a2,dudoso,Enumera organismos como garantía de las cuentas; posible apelación a autoridad
+fpn_0704_a0,falacia,Ad hominem: atribuye al rival 'proyección' psicológica en vez de rebatirle
+fpn_0705_d0,no_valido,Confuso por transcripción y cambio de tema sin contenido
+fpn_0707_d0,no_valido,Pregunta del moderador sobre Marruecos
+fpn_0708_a0,sin_falacia,Compromisos concretos de política exterior
+fpn_0708_d0,falacia,Apelación a la identidad sin argumento sustantivo
+fpn_0708_d1,sin_falacia,Informa de una medida concreta del gobierno
+fpn_0709_d0,dudoso,Logros con lenguaje emotivo 'alma de Europa'; posible apelación a la identidad
+fpn_0712_a0,no_valido,Errores de transcripción hacen el texto confuso
+fpn_0713_a0,no_valido,Intervención del moderador
+fpn_0713_d0,no_valido,Frase incompleta que solo anuncia un tema
+fpn_0713_d1,dudoso,Autoafirmación sin argumento; tono de eslogan
+fpn_0715_a0,sin_falacia,"Enumera reuniones como crítica, sin falacia evidente"
+fpn_0718_a0,no_valido,Demasiado corto y sin contexto
+fpn_0718_d0,dudoso,"Repetición tipo eslogan y 'la gente está harta', posible ad populum"
+fpn_0718_d1,no_valido,Saludo de trámite
+fpn_0719_a0,sin_falacia,Enumeración de datos económicos críticos
+fpn_0719_d0,no_valido,Eslogan seguido de intervención del moderador repartiendo turnos
+fpn_0720_d0,falacia,Falso dilema: reduce las elecciones a dos opciones
+fpn_0723_a0,dudoso,Atribuye al rival un motivo (le molesta); posible hombre de paja
+fpn_0724_d0,no_valido,Moderador gestionando tiempos de réplica
+fpn_0725_a0,dudoso,Repetición tipo eslogan sobre pensiones públicas
+fpn_0726_a0,dudoso,Contraste sesgado de medidas del rival; posible hombre de paja
+fpn_0727_d0,no_valido,Transcripción rota y aviso de tiempo
+fpn_0729_d0,dudoso,Fragmento cortado que encamina un ataque y llamada al voto
+fpn_0729_d1,dudoso,"Metáfora emotiva ('juegos del hambre'), fragmento cortado"
+fpn_0729_d2,dudoso,"Insinúa intereses ocultos del rival, posible envenenar el pozo"
+fpn_0730_a0,sin_falacia,Propuesta concreta sobre terapia en sanidad pública
+fpn_0730_a1,no_valido,"Trámite de turno, posible moderador"
+fpn_0730_a2,dudoso,"Ironía sobre Sánchez 'pasará a la historia', posible envenenar el pozo"
+fpn_0730_d0,dudoso,Exalta al presidente ('país mejor') aunque cita leyes; posible apelación emocional
+fpn_0731_a0,no_valido,"Mezcla de oradores e interrupciones, texto confuso"
+fpn_0731_d0,dudoso,Pregunta que presupone retraso en rectificar: posible pregunta compleja
+fpn_0732_a0,dudoso,"Augurio sin argumento, parecido a envenenar el pozo de la guía"
+fpn_0733_a0,falacia,"Burla ""los ladrones"" (ad hominem) y ""muchísima gente"" (ad populum)"
+fpn_0733_d0,dudoso,Etiqueta emotiva 'ley de la vergüenza'; posible apelación a la emoción
+fpn_0734_a0,dudoso,"Sarcasmo 'ustedes que se consideran feministas', posible ad hominem"
+fpn_0734_a1,falacia,Apelación al miedo/emoción con violadores y pederastas
+fpn_0735_a0,no_valido,Truncado e incoherente
+fpn_0736_d0,falacia,Hombre de paja: 'eso es lo que ustedes quieren'
+fpn_0736_d1,dudoso,Atribución de postura al rival sin prueba; posible hombre de paja
+fpn_0737_a0,falacia,Apelación a la identidad: unidad de los españoles y la Constitución
+fpn_0738_a0,falacia,Hombre de paja y desacredita al rival: 'lecciones no nos van a dar'
+fpn_0738_d0,dudoso,Atribución irónica a 'dicen'; posible hombre de paja
+fpn_0739_a0,dudoso,"""La gente no es tonta"" y burla; posible ad populum o ad hominem"
+fpn_0739_a1,dudoso,Ironía y anécdota como prueba; posible generalización apresurada
+fpn_0739_a2,dudoso,Repetición tipo eslogan; posible falso dilema político/penal
+fpn_0739_d0,sin_falacia,Crítica razonada: incumplimiento de lo firmado en el pacto de investidura
+fpn_0741_d0,falacia,Ad hominem: descalifica al rival por la ley del solo sí es sí
+fpn_0744_d0,falacia,Envenenar el pozo/miedo: 'agenda oculta de Vox'
+fpn_0746_d0,dudoso,Etiqueta 'radicales' y pregunta dramática; posible miedo o envenenar el pozo
+fpn_0750_a0,falacia,"Ad hominem: ""dijo la verdad por primera vez en su vida"""
+fpn_0752_a0,sin_falacia,Afirmación de un hecho histórico sin argumentación falaz
+fpn_0754_d0,falacia,"Ad hominem: 'la democracia es mucho mejor que usted', ataque personal"
+fpn_0755_a0,dudoso,Lema 'derogar el sanchismo'; posible eslogan
+fpn_0755_a1,sin_falacia,Declara postura sobre pactos con su razonamiento aritmético
+fpn_0755_d0,falacia,"Eslogan y falso dilema: 'no alternancia sino alternativa', derrocar el sanchismo"
+fpn_0757_a0,no_valido,Mezcla dos oradores
+fpn_0757_d0,no_valido,Mezcla candidato y pregunta del moderador
+fpn_0758_a0,no_valido,"Introducción sin contenido, cortada"
+fpn_0758_d0,falacia,Falso dilema: o ganamos juntas o no podremos gobernar
+fpn_0760_d0,falacia,Apelación a la emoción: obligación moral de no perder
+fpn_0762_d0,no_valido,Parece mezclar dos oradores; incluye ataque 'fascismo será usted'
+fpn_0765_a0,no_valido,Moderador explicando el orden de intervención
+fpn_0775_a0,falacia,"Envenenar el pozo: anticipa ""excusas y mentiras""; además mezcla moderador"
+fpn_0775_d0,no_valido,Puro trámite introductorio sin contenido
+fpn_0776_a0,no_valido,Introducción de trámite que solo anuncia temas
+fpn_0776_d0,falacia,Ad hominem: tilda a rivales de antivacunas y negacionistas
+fpn_0776_d1,sin_falacia,Narración factual de la guerra y la subida de precios
+fpn_0776_d2,falacia,"Generalización apresurada: ""oponiéndose a todo"" a partir de pocos casos"
+fpn_0776_d3,sin_falacia,"Niega una afirmación del rival; tono duro, sin falacia de la guía"
+fpn_0778_a0,dudoso,Atribuye una ola de calor concreta al cambio climático: posible falsa causa
+fpn_0778_a1,dudoso,'Hoy estamos como estamos' causalidad vaga; 'la mejor política es la verde' eslogan
+fpn_0779_a0,sin_falacia,Afirmación sobre energías limpias y transición a la postura rival
+fpn_0779_d0,no_valido,Fragmento demasiado corto e incompleto
+fpn_0780_d0,sin_falacia,Crítica razonada: niegan la emergencia climática
+fpn_0784_a0,dudoso,Posible generalización apresurada: en contra de todas las leyes
+fpn_0784_a1,dudoso,Posible hombre de paja o generalización sobre PP y Vox
+fpn_0784_d0,falacia,Apelación a la emoción y miedo: derechos que se van a arrebatar
+fpn_0785_a0,dudoso,Burla de pegatinas y afirmación repetida sin argumento; posible eslogan
+fpn_0785_d0,sin_falacia,Informa de un hecho verificable sobre el pacto de Estado
+fpn_0786_a0,sin_falacia,Rebate un hecho sobre una votación
+fpn_0786_a1,sin_falacia,Aclaración neutra antes de explicar su voto
+fpn_0786_d0,dudoso,Insinúa mala fe del rival en vez de argumentar; posible ad hominem
+fpn_0790_d0,dudoso,Usa la OMS como garantía; posible apelación a la autoridad
+fpn_0791_a0,sin_falacia,Propuesta concreta: prestación de 200 euros por hijo
+fpn_0791_a1,sin_falacia,Referencia informativa a una pregunta sobre coste de UCI
+fpn_0791_a2,sin_falacia,Datos de costes sanitarios
+fpn_0791_a3,sin_falacia,Dato concreto sobre el coste de la matrícula
+fpn_0791_a4,sin_falacia,Defiende el estado del bienestar con un dato
+fpn_0792_a0,dudoso,Frase emotiva implícita contra el rival y reproche; poco claro
+fpn_0793_d0,falacia,"Apelación al miedo/emoción: ""túnel del tiempo tenebroso"", exageración"
+fpn_0796_a0,falacia,Apelación al miedo: exagera que la ley condena a la mutilación
+fpn_0796_d0,falacia,Ad populum: 'muchísimos ciudadanos no están de acuerdo' como argumento
+fpn_0802_a0,dudoso,Texto deslavazado; reproche 'como si no hubiesen gobernado' posible ad hominem
+fpn_0802_a1,dudoso,"Exageración ('destrozado') sin datos, posible apelación al miedo"
+fpn_0802_d0,dudoso,Culpa al rival sin justificar el nexo; posible falsa causalidad
+fpn_0804_a0,dudoso,'Incorporado a la dirección del Estado': posible exageración del rival
+fpn_0804_d0,dudoso,"Pregunta con premisa implícita, transcripción confusa"
+fpn_0805_a0,sin_falacia,Defiende su gestión con dato de acuerdos sociales
+fpn_0805_d0,sin_falacia,Crítica basada en un hecho concreto: CGPJ sin renovar
+fpn_0806_d0,dudoso,"Ironía con errores de transcripción, sentido poco claro"
+fpn_0810_a0,falacia,Apelación a la autoridad: hablo con dirigentes europeos
+fpn_0810_d0,falacia,Hombre de paja/miedo: Vox quiere llevar a las mujeres 50 años atrás
+fpn_0811_a0,sin_falacia,Afirmación factual breve
+fpn_0811_a1,no_valido,Fragmento de pocas palabras sin contenido
+fpn_0811_d0,sin_falacia,Crítica de una declaración con argumento sobre contaminación
+fpn_0811_d1,falacia,Califica al rival de ignorante y exagera el peligro: ad hominem y miedo
+fpn_0812_a0,sin_falacia,Explica la ruta migratoria y la cooperación con terceros países
+fpn_0812_a1,dudoso,'Nos jugamos la próxima década': posible apelación a la emoción
+fpn_0812_d0,falacia,Apelación al miedo y emoción para pedir el voto
+fpn_0816_d0,dudoso,"Retrata la incertidumbre de pequeños empresarios, posible apelación al miedo"
+fpn_0818_a0,dudoso,Juego de palabras sin datos que busca preocupar; posible apelación al miedo
+fpn_0818_d0,falacia,Ad populum: 'muchos ciudadanos de buena fe lo reconocen'
+fpn_0822_d0,falacia,Apelación a la identidad: criticar es desconfiar del país
+fpn_0826_d0,no_valido,Inicio incomprensible por la transcripción
+fpn_0828_a0,sin_falacia,"Ilustra con un caso concreto, sin generalizar ('a veces')"
+fpn_0829_a0,dudoso,Descalificación 'ridículo' sin argumentos
+fpn_0829_a1,sin_falacia,"Rebate una comparación del rival, tono duro sin falacia"
+fpn_0829_a2,dudoso,Da la cifra apoyándose en 'los principales expertos'; posible apelación a autoridad
+fpn_0830_d0,sin_falacia,Compromiso concreto de crear una comisión
+fpn_0830_d1,dudoso,Transcripción confusa; final con posible ataque al rival
+fpn_0834_a0,sin_falacia,Opinión moderada sobre acuerdos postelectorales
+fpn_0834_a1,sin_falacia,Defiende la gestión con un resultado económico concreto
+fpn_0836_a0,sin_falacia,Datos de gasto y déficit
+fpn_0838_a0,no_valido,Broma sin contenido argumentativo
+fpn_0839_a0,dudoso,Descalifica el discurso por su pasado; posible ad hominem
+fpn_0839_a1,sin_falacia,Crítica a la gestión de la crisis
+fpn_0839_d0,dudoso,Pregunta retórica con premisa implícita: posible pregunta compleja
+fpn_0840_d0,dudoso,"Sarcasmo sin contexto, fragmento poco claro"
+fpn_0841_a0,sin_falacia,Aporta datos comparativos concretos
+fpn_0841_a1,dudoso,Fragmento confuso con pregunta retórica; difícil de juzgar
+fpn_0841_a2,no_valido,Frase truncada y de trámite sobre temas a tratar; no se entiende
+fpn_0841_d0,no_valido,Mezcla oradores con intervención del moderador
+fpn_0842_a0,sin_falacia,Análisis económico con un dato comparativo
+fpn_0843_a0,sin_falacia,Atribuye el mérito de la convergencia a España
+fpn_0844_a0,falacia,"Ad hominem/generalización: descalifica al rival por su historial, 'no tienen nada que ofrecer'"
+fpn_0844_d0,dudoso,Desacredita a quienes se quejan por haberse aprovechado; posible ad hominem
+fpn_0845_a0,dudoso,"Reproche personal sin contexto, posible ad hominem"
+fpn_0845_d0,no_valido,"Fragmento incoherente, parece del moderador"
+fpn_0850_a0,dudoso,Solo expresa tristeza ante el rival; carga emotiva sin argumento
+fpn_0850_d0,dudoso,Retórica confusa que acusa al rival de atemorizar
+fpn_0851_a0,dudoso,Crítica concreta pero cierra con generalización descalificadora
+fpn_0851_a1,sin_falacia,Argumento sobre confianza y cifras económicas
+fpn_0852_a0,falacia,Ad hominem: nadie se fía de usted
+fpn_0853_a0,no_valido,"Frase de trámite incompleta, sin argumento"
+fpn_0853_a1,no_valido,Fragmento incompleto y confuso
+fpn_0853_a2,sin_falacia,Razonamiento sobre avances logrados por su apoyo
+fpn_0853_d0,sin_falacia,Reproduce la afirmación del rival para rebatirla con ejemplos
+fpn_0855_a0,sin_falacia,Rechaza una comparación por inapropiada
+fpn_0855_d0,dudoso,Generaliza sobre países conservadores; texto algo confuso
+fpn_0856_d0,dudoso,"Fragmento irónico e incompleto, difícil de juzgar"
+fpn_0857_a0,sin_falacia,"Pregunta retórica sobre un dato, sin premisa falaz"
+fpn_0857_d0,sin_falacia,"Valoración general sobre gestión, sin falacia"
+fpn_0865_a0,sin_falacia,Afirmación simple sobre seguridad ciudadana
+fpn_0865_a1,sin_falacia,Balance de seguridad con referencia a delitos y eventos
+fpn_0865_a2,sin_falacia,Explicación sobre evolución de la delincuencia
+fpn_0865_a3,dudoso,"Posible apelación a la identidad, sin argumento claro"
+fpn_0865_d0,falacia,Organizaciones internacionales como garantía: apelación a la autoridad
+fpn_0867_d0,sin_falacia,Defiende el derecho a presentar texto alternativo
+fpn_0870_a0,sin_falacia,Rebate una acusación explicando su propuesta; tono duro
+fpn_0875_a0,dudoso,Autoelogio emotivo sin datos; posible apelación a la emoción
+fpn_0878_d0,no_valido,Mezcla oradores (V: ... Z:)
+fpn_0880_d0,sin_falacia,Dato sobre la tasa de paro
+fpn_0880_d1,sin_falacia,Compara datos de precios con contexto internacional
+fpn_0882_d0,no_valido,"Mezcla varios oradores (Z:, V:, R:)"
+fpn_0884_a0,sin_falacia,Datos de subida de precios y pregunta directa
+fpn_0884_d0,no_valido,Mezcla oradores (marca Z:)
+fpn_0888_a0,dudoso,Marca de orador y tono emotivo sobre empleos
+fpn_0888_d0,sin_falacia,"Alude a una metáfora del rival, sin falacia"
+fpn_0888_d1,sin_falacia,Ironía leve seguida de datos económicos concretos
+fpn_0888_d2,sin_falacia,Previsión económica apoyada en razones concretas
+fpn_0892_d0,sin_falacia,Argumento matizado sobre inmigración y servicios sociales
+fpn_0896_d0,sin_falacia,"Se queja de que descalifican sus propuestas, sin falacia"
+fpn_0896_d1,no_valido,Mezcla oradores (Z: ... R: ...)
+fpn_0899_d0,dudoso,Atribuye al rival no querer orden; posible hombre de paja
+fpn_0900_d0,falacia,Generalización apresurada: 'no han apoyado ningún avance de derechos'
+fpn_0900_d1,falacia,Generalización apresurada: no han movido un dedo en 30 años
+fpn_0900_d2,no_valido,Mezcla oradores (V: ... R:)
+fpn_0902_a0,sin_falacia,Logros y referencia concreta al programa rival
+fpn_0903_a0,no_valido,Mezcla varios oradores con marcas Z: y V:
+fpn_0903_a1,no_valido,Frase incompleta e incoherente
+fpn_0906_d0,falacia,Desacredita al rival por sus críticas en la UE: ad hominem
+fpn_0906_d1,no_valido,Incluye intervención del moderador (V:)
+fpn_0916_d0,dudoso,Rechazo sin argumento ni contexto
+fpn_0918_d0,falacia,Envenenar el pozo: acusa de beneficiar a terroristas
+fpn_0918_d1,falacia,Ad hominem: acusa de negociar con organización terrorista
+fpn_0918_d2,no_valido,Mezcla oradores (marca 'Z:')
+fpn_0918_d3,sin_falacia,Datos concretos sobre víctimas del terrorismo
+fpn_0920_d0,no_valido,Marca de orador y frase suelta sin contexto
+fpn_0921_a0,falacia,Hombre de paja/ad hominem: atribuye filosofía deformada al rival
+fpn_0921_d0,sin_falacia,Informa sobre seguridad vial con dato
+fpn_0921_d1,dudoso,Atribuye la bajada de muertes a 'no resignarse': posible falsa causalidad
+fpn_0921_d2,no_valido,Mezcla varios oradores (V: R:)
+fpn_0922_a0,no_valido,"Mezcla varios oradores (Z:, R:)"
+fpn_0922_a1,falacia,Ad hominem: acusa al rival de negociar con ETA
+fpn_0922_d0,no_valido,"Mezcla varios oradores (Z:, R:)"
+fpn_0926_d0,dudoso,Pregunta retórica con premisa cargada; posible pregunta compleja
+fpn_0930_a0,dudoso,"""Melón que no reclamaba nadie"": posible ad populum o premisa cargada"
+fpn_0930_a1,falacia,Hombre de paja: 'a costa de echar a la mitad de la población'
+fpn_0930_a2,dudoso,"Atribución causal simplista ('los ha radicalizado'), posible falsa causalidad"
+fpn_0935_d0,sin_falacia,Rebate con un hecho concreto sobre el referéndum vasco
+fpn_0936_a0,falacia,Pregunta compleja: '¿sigue usted creyendo que estamos muy unidos?'
+fpn_0936_a1,no_valido,Mezcla varios oradores (interrupción Z:)
+fpn_0936_a2,sin_falacia,"Rectifica lo que se le atribuye, sin falacia"
+fpn_0936_d0,sin_falacia,Expresa discrepancia de opinión
+fpn_0937_a0,no_valido,Incomprensible sin contexto
+fpn_0937_a1,no_valido,Incluye intervención del moderador (V:)
+fpn_0938_a0,sin_falacia,Crítica sobre el uso político de un proyecto
+fpn_0938_a1,dudoso,Lista de logros pero cierra atacando el pasado del rival
+fpn_0941_d0,sin_falacia,Compara datos de vivienda protegida y hace un compromiso concreto
+fpn_0941_d1,sin_falacia,Comparación con datos concretos de ayudas al alquiler
+fpn_0943_a0,dudoso,Sarcasmo sobre el rival antes de entrar en el tema
+fpn_0943_a1,dudoso,Comparación incompleta que insinúa causa según partido gobernante
+fpn_0943_d0,sin_falacia,Crítica basada en un hecho concreto sobre ayudas al alquiler
+fpn_0945_a0,no_valido,Marca de orador (R:) y fragmento cortado
+fpn_0950_d0,dudoso,Responsabiliza al rival de insultos de un apoyo; posible pista falsa
+fpn_0950_d1,sin_falacia,"Pide tolerancia y respeto hacia votantes, sin falacia clara"
+fpn_0950_d2,dudoso,Frase suelta sin argumento; posible eslogan
+fpn_0950_d3,sin_falacia,Crítica de conducta sin recurso falaz claro
+fpn_0950_d4,no_valido,Mezcla oradores (marca Z:)
+fpn_0953_d0,no_valido,Incluye intervención del moderador
+fpn_0955_d0,sin_falacia,Recoge una afirmación del rival
+fpn_0962_d0,no_valido,Frase de trámite sin contenido
+fpn_0963_d0,sin_falacia,Relaciona política social y económica y critica la gestión
+fpn_0963_d1,dudoso,"Da datos, pero 'no ha hecho nada' exagera; posible generalización"
+fpn_0963_d2,dudoso,Atribuye intenciones al rival y apela a 'muchas personas'; posible ad populum
+fpn_0963_d3,sin_falacia,Crítica moderada sin falacia
+fpn_0963_d4,sin_falacia,"Crítica dura a una política concreta, sin falacia de la guía"
+fpn_0963_d5,falacia,"Ad hominem: ataca la credibilidad del rival, no sus datos"
+fpn_0968_a0,sin_falacia,Logros y cifras sobre la ley de dependencia
+fpn_0976_d0,sin_falacia,Crítica con hechos y cita del rival sobre Irak
+fpn_0981_a0,dudoso,Afirma relación ETA-islamismo sin pruebas; posible miedo
+fpn_0983_d0,falacia,Ad hominem: atribuye querer ganar por Irak o el 11M
+fpn_0984_a0,dudoso,Insinúa ocultación sobre ETA: posible envenenar el pozo
+fpn_0984_a1,sin_falacia,Señala una contradicción concreta del rival
+fpn_0985_a0,dudoso,"""Aprendiz de brujo"": crítica política con posible ad hominem"
+fpn_0985_d0,dudoso,"Atribución causal simplista de radicalización, posible falsa causalidad"
+fpn_0988_a0,dudoso,"Comparación personal con el rival, posible ad hominem"
+fpn_0988_a1,no_valido,No se entiende por errores de transcripción
+fpn_0988_d0,dudoso,Ataca la implicación personal del rival; posible ad hominem
+fpn_0988_d1,dudoso,Lenguaje de valores sin contenido; fragmento incompleto
+fpn_0988_d2,sin_falacia,"Discrepa sobre quién ocupa el centro político, sin falacia"
+fpn_0988_d3,falacia,Ad hominem: descalifica al rival por 'irse al extremo'
+fpn_0988_d4,dudoso,Reduce la gestión rival a inaugurar obras ajenas; posible generalización
+fpn_0991_a0,sin_falacia,Crítica basada en un hecho: coalición con ERC
+fpn_0999_a0,sin_falacia,Propuesta de ley y pregunta directa al rival
+fpn_1004_a0,sin_falacia,Defiende una postura educativa con razones
+fpn_1004_d0,no_valido,Frase de transición sin contenido
+fpn_1007_d0,sin_falacia,Propuesta concreta de vivienda y financiación local
+fpn_1009_a0,dudoso,Rebate pero con ataque personal 'usted no se entera'; posible ad hominem
+fpn_1009_d0,dudoso,Insinuación personal de que el rival debería irse; posible ad hominem
+fpn_1009_d1,dudoso,"""No ha hecho nada"" y crítica personal a un magistrado: posible ad hominem"
+fpn_1009_d2,sin_falacia,Justifica la prioridad educativa con un razonamiento económico
+fpn_1011_d0,dudoso,Invoca a la UE como garantía sin dar los datos
+fpn_1013_a0,sin_falacia,"Promesa sobre política de agua, sin falacia"
+fpn_1013_d0,no_valido,Intervención del moderador cerrando bloques
+fpn_1019_a0,dudoso,Descarta el argumento rival como 'la excusa de siempre' sin rebatirlo
+fpn_1021_a0,sin_falacia,Explica una medida concreta sobre contratos de prácticas
+fpn_1021_a1,sin_falacia,Explica la financiación con un impuesto a grandes fortunas
+fpn_1026_a0,sin_falacia,Argumenta flexibilidad con seguridad mediante un ejemplo ilustrativo
+fpn_1027_a0,dudoso,"Asocia la medida a la CEOE, posible ataque por asociación"
+fpn_1029_a0,dudoso,Usa Twitter y Google como prueba del sistema: posible falsa causalidad/generalización
+fpn_1030_a0,dudoso,"Acusación causal sin argumento, posible falsa causalidad; fragmento incompleto"
+fpn_1030_d0,sin_falacia,Propuesta económica con una razón explícita
+fpn_1031_a0,sin_falacia,Describe un problema concreto y pregunta al rival
+fpn_1032_a0,sin_falacia,Expresa preocupaciones concretas sin recurso falaz
+fpn_1032_d0,sin_falacia,Crítica irónica apoyada en recortes presupuestarios
+fpn_1032_d1,sin_falacia,Datos presupuestarios concretos
+fpn_1032_d2,sin_falacia,Datos de financiación autonómica
+fpn_1037_a0,sin_falacia,Testimonio directo sobre un hecho
+fpn_1037_a1,dudoso,Remite a lo que explicaron otros como garantía; sin contenido propio
+fpn_1040_d0,dudoso,Sarcasmo y tu quoque con las pensiones: posible ad hominem
+fpn_1040_d1,sin_falacia,Anuncia una medida concreta y se queja de que se ignore
+fpn_1040_d10,no_valido,Intervención del moderador repartiendo turno
+fpn_1040_d2,sin_falacia,Rebate una acusación explicando su postura
+fpn_1040_d3,sin_falacia,Razona la importancia de la educación y da propuesta concreta
+fpn_1040_d4,sin_falacia,Describe objetivo de reforma educativa
+fpn_1040_d5,sin_falacia,Crítica apoyada en hecho concreto: derogación de la ley a las 48 horas
+fpn_1040_d6,dudoso,"""Absolutamente nadie ha querido pactar"": posible ad populum o generalización"
+fpn_1040_d7,sin_falacia,Crítica concreta sobre recortes en educación en presupuestos
+fpn_1040_d8,sin_falacia,Crítica a congelación de partidas presupuestarias
+fpn_1040_d9,sin_falacia,Crítica concreta a partidas presupuestarias
+fpn_1053_a0,sin_falacia,"Compromiso con la unidad antiterrorista, sin falacia"
+fpn_1057_a0,dudoso,"Pulla sobre arrogancia; cortado, posible ad hominem"
+fpn_1057_d0,dudoso,Dramatización sin contenido; posible apelación a la emoción
+fpn_1058_d0,no_valido,"Intervención del moderador, reparto de turnos"
+fpn_1059_a0,sin_falacia,Enumera planes concretos de energía
+fpn_1061_a0,sin_falacia,Acuerdo sobre el paro respaldado con dato de paro juvenil
+fpn_1061_d0,sin_falacia,"Cadena argumentativa: invertir, recaudar, reforma fiscal; propuesta concreta"
+fpn_1062_d0,sin_falacia,"Crítica al modelo laboral rival, opinión"
+fpn_1063_a0,sin_falacia,Propuesta concreta sobre el sueldo del presidente
+fpn_1063_d0,sin_falacia,Argumenta con comparación salarial concreta
+fpn_1065_a0,sin_falacia,Propuesta razonada sobre el ritmo de reducción del déficit
+fpn_1068_a0,sin_falacia,Propuesta educativa 0-3 años con su justificación
+fpn_1068_d0,sin_falacia,Aporta datos sobre el pacto educativo de otro país
+fpn_1068_d1,sin_falacia,Argumenta la necesidad de invertir en educación
+fpn_1070_d0,sin_falacia,Critica una postura de inhibición ante atentados
+fpn_1071_a0,dudoso,Opone militares y jueces como autoridad; posible apelación a la autoridad
+fpn_1074_d0,dudoso,Autoelogio vago y transcripción algo confusa
+fpn_1075_a0,sin_falacia,Argumento de eficiencia y sostenibilidad energética
+fpn_1075_d0,no_valido,Fragmento cortado y confuso
+fpn_1079_a0,falacia,Ad hominem circunstancial: intereses de exministros en Iberdrola
+fpn_1080_a0,sin_falacia,Propuesta fiscal concreta con crítica al rival
+fpn_1081_d0,sin_falacia,Propuesta concreta de reforma del Senado
+fpn_1082_a0,sin_falacia,Crítica razonada sobre vincular yihadismo y refugiados
+fpn_1084_a0,sin_falacia,"Comentario sobre citar a Kant, sin razonamiento defectuoso"
+fpn_1084_d0,sin_falacia,Crítica concreta a cambios educativos
+fpn_1085_d0,sin_falacia,"Crítica dura sobre falta de independencia, sin falacia clara"
+fpn_1085_d1,sin_falacia,Propuesta concreta de tribunal de competencia e incompatibilidades
+fpn_1090_a0,dudoso,Posible apelación a la emoción con dato no argumentado
+fpn_1090_a1,dudoso,"""Nos ha llamado la atención toda Europa"": posible apelación a la autoridad"
+fpn_1090_d0,dudoso,Inicio inconexo; generalización sobre fracaso de PP y PSOE
+fpn_1094_a0,dudoso,'Mucha gente lo sabe'; posible ad populum
+fpn_1094_d0,falacia,Cita otros países como garantía: apelación a la autoridad
+fpn_1100_a0,sin_falacia,Propuesta concreta apoyada en datos
+fpn_1100_a1,sin_falacia,Lista de leyes aprobadas por el partido
+fpn_1101_d0,sin_falacia,Disposición a pactar sobre propuestas concretas
+fpn_1102_a0,sin_falacia,Propuesta concreta de educación inclusiva
+fpn_1104_d0,dudoso,Desvía el debate del coste hacia corruptos; posible pista falsa
+fpn_1105_a0,sin_falacia,Crítica dura y propuesta concreta sobre pensiones
+fpn_1105_d0,dudoso,Causalidad sin justificar sobre pensiones de hijos y nietos; posible falsa causa
+fpn_1106_a0,no_valido,Mezcla pregunta del moderador y respuesta del candidato
+fpn_1106_a1,sin_falacia,Describe un modelo administrativo con rasgos concretos
+fpn_1106_d0,dudoso,"""Es normal"" y ""no para romperla"": posible ad populum u hombre de paja"
+fpn_1107_a0,falacia,Apelación a la identidad: orgulloso de ser catalán y español
+fpn_1107_d1,falacia,Ad populum/identidad: 'la mayoría queremos seguir siendo españoles'
+fpn_1110_a0,falacia,Ad populum (encuestas) y apelación a la emoción para pedir el voto
+fpn_1110_a1,no_valido,"Frase incompleta, sin contenido argumentativo evaluable"
+fpn_1110_d0,sin_falacia,"Opinión sobre catalanes basada en su experiencia, sin falacia"
+fpn_1110_d1,dudoso,Caricatura de los demás partidos; posible hombre de paja
+fpn_1110_d2,dudoso,Causalidad apoyada en encuesta vaga; posible falsa causalidad
+fpn_1110_d3,falacia,Ad populum: el 80% de los catalanes quiere decidir
+fpn_1114_a0,no_valido,Pregunta del moderador a un candidato
+fpn_1114_d0,dudoso,Asocia a otros con Batasuna: posible envenenar el pozo
+fpn_1114_d1,sin_falacia,Crítica que da una razón concreta de la responsabilidad
+fpn_1114_d2,falacia,Envenenar el pozo: asocia sus argumentos a la caverna mediática
+fpn_1116_d0,falacia,Apelación a la identidad ('la grandeza de nuestro país') y autoridad (Maragall)
+fpn_1119_a0,dudoso,Usa su identidad como garantía; posible apelación a la autoridad
+fpn_1121_d0,sin_falacia,Propuesta sobre el modelo de Senado
+fpn_1123_a0,sin_falacia,Crítica razonada a un conflicto de intereses judicial
+fpn_1123_d0,falacia,Ad hominem: los corruptos no pueden sacarnos de la corrupción
+fpn_1125_d0,sin_falacia,Crítica razonada de una reforma legal concreta
+fpn_1126_a0,dudoso,Puede ser ad hominem contra Podemos por un caso concreto
+fpn_1126_d0,dudoso,Compara condenas con caso Bódalo sin detalle; posible falsa analogía
+fpn_1128_a0,no_valido,Mezcla moderador y orador
+fpn_1128_a1,dudoso,Frase tipo eslogan sobre proyecto común para España
+fpn_1128_a2,falacia,Apelación a la emoción: pide confianza sin propuesta concreta
+fpn_1128_d0,falacia,Eslogan/apelación emocional: 'el nuevo proyecto común se llama Ciudadanos'
+fpn_1129_a0,sin_falacia,Logro con dato de empleo creado
+fpn_1129_a1,sin_falacia,Objetivo concreto de empleo para la legislatura
+fpn_1129_a2,dudoso,Usa promesas pasadas para desacreditar; posible ad hominem
+fpn_1129_d0,sin_falacia,Rebate con datos de crecimiento e impuestos
+fpn_1129_d1,dudoso,"Crítica de modelo, pero insinuación sobre Rato posible ad hominem"
+fpn_1129_d2,falacia,Falsa causalidad: reforma laboral del PP causa sueldos bajos
+fpn_1129_d3,sin_falacia,Dato sobre masa salarial
+fpn_1129_d4,falacia,"Falso dilema (emigrar, paro o explotación) y apelación a la emoción"
+fpn_1129_d5,falacia,Imagen familiar dramática para culpar al rival: apelación a la emoción
+fpn_1130_a0,dudoso,'A usted no le importa': posible hombre de paja o ad hominem
+fpn_1133_a0,sin_falacia,"Ironía sobre el discurso rival, anuncia explicación; tono no es falacia"
+fpn_1133_a1,sin_falacia,"Crítica apoyada en datos de impuestos, gasto y deuda"
+fpn_1134_d0,dudoso,Ironía que podría deformar la postura del rival (hombre de paja)
+fpn_1135_d0,no_valido,Frase incompleta e incomprensible
+fpn_1137_a0,sin_falacia,Propuesta concreta: ley de cambio climático
+fpn_1137_a1,sin_falacia,Introduce una cita del rival; sin recurso falaz
+fpn_1137_a2,sin_falacia,Cita literal de lo dicho por el rival
+fpn_1137_a3,sin_falacia,Expone propuesta de servicios públicos y dependencia
+fpn_1137_d0,no_valido,Mezcla oradores con intervención del moderador
+fpn_1138_a0,sin_falacia,Propuestas concretas de educación
+fpn_1138_d0,falacia,Ad hominem: atribuye malas intenciones al Consejo de Ministros
+fpn_1138_d1,dudoso,Pregunta posiblemente cargada sobre el ministro; posible pregunta compleja
+fpn_1138_d2,no_valido,El '¿Sí o no?' parece de otro orador; mezcla probable
+fpn_1140_a0,sin_falacia,Propuesta concreta sobre dependencia y cuidadores
+fpn_1142_d0,sin_falacia,Dato de brecha salarial y propuesta concreta
+fpn_1142_d1,sin_falacia,Propuesta concreta sobre violencia de género
+fpn_1142_d2,sin_falacia,Propuesta concreta: ley de igualdad salarial
+fpn_1142_d3,sin_falacia,Compromiso concreto de gobierno paritario
+fpn_1142_d4,dudoso,Atribuye intenciones al rival y parece incluir interrupciones
+fpn_1144_a0,no_valido,Mezcla pregunta del moderador y respuesta
+fpn_1144_a1,sin_falacia,Dato sobre el tamaño de los ayuntamientos
+fpn_1145_a0,no_valido,"""Si me deja... Adelante"" parece mezclar dos voces"
+fpn_1145_d0,no_valido,"Transcripción confusa, no se entiende qué ha aumentado"
+fpn_1146_d0,sin_falacia,Posicionamiento propio sin falacia
+fpn_1147_a0,sin_falacia,Informa sobre colaboración internacional contra el terrorismo
+fpn_1147_a1,sin_falacia,Crítica a la actitud del gobierno en Europa
+fpn_1147_a2,sin_falacia,Explica objetivos de la propuesta socialista
+fpn_1147_a3,sin_falacia,Propuesta concreta de política europea
+fpn_1147_a4,sin_falacia,Enumera propuestas concretas para la eurozona
+fpn_1148_d0,sin_falacia,"Afirma continuidad de su gestión, sin falacia de la guía"
+fpn_1149_d0,sin_falacia,Diagnóstico del empleo apoyado en datos de la EPA
+fpn_1150_d0,sin_falacia,Propuesta explicando el mecanismo de la reforma laboral criticada
+fpn_1151_a0,sin_falacia,"Introduce cifras de Eurostat sobre pobreza, sin argumento falaz"
+fpn_1151_d0,sin_falacia,Matiza con un dato sobre contratos fijos
+fpn_1154_a0,sin_falacia,Propuesta concreta de cuotas progresivas para autónomos
+fpn_1154_a1,sin_falacia,"Razonamiento simple: si una política falla, cambiarla"
+fpn_1154_d0,sin_falacia,"Reconoce un fallo, sin falacia"
+fpn_1155_a0,sin_falacia,"Crítica breve e introducción de un recuerdo, sin falacia"
+fpn_1155_a1,sin_falacia,Contrapone promesa y hecho concreto
+fpn_1155_a2,dudoso,"Ataca credibilidad del rival por el pasado, posible ad hominem"
+fpn_1157_a0,falacia,Hombre de paja: atribuye subida al 56% a clase media y autónomos
+fpn_1157_a1,dudoso,'Machacando impuestos a la clase media' puede ser hombre de paja
+fpn_1159_d0,falacia,Acusación personal sin argumento: ad hominem
+fpn_1161_a0,falacia,Falsa analogía con Grecia
+fpn_1165_a0,sin_falacia,Razona la relación empleo-pensiones y fija un objetivo
+fpn_1165_a1,sin_falacia,Crítica a la calidad del empleo con datos
+fpn_1165_a2,sin_falacia,Afirmación basada en un dato de cotizantes
+fpn_1169_a0,dudoso,Fragmento incompleto que insinúa una postura del rival; posible hombre de paja
+fpn_1169_d0,falacia,Ad hominem: descalifica la propuesta por el historial del rival
+fpn_1169_d1,no_valido,Mezcla petición del moderador sobre tiempo e intervención del candidato
+fpn_1169_d2,dudoso,Posible hombre de paja: reduce la postura del rival a solo derogar
+fpn_1172_d0,dudoso,Atribuye división y apela a lo que piensa 'la gente'
+fpn_1173_d0,no_valido,Termina con reparto de turno del moderador
+fpn_1174_a0,sin_falacia,Describe propuestas sanitarias concretas
+fpn_1174_a1,sin_falacia,Lista de propuestas concretas
+fpn_1174_a2,sin_falacia,Enumeración de medidas propuestas con datos
+fpn_1176_a0,falacia,Envenenar el pozo: desacredita al rival por bloquear antes
+fpn_1176_a1,sin_falacia,Reconoce la postura del rival antes de plantear una objeción
+fpn_1176_a2,dudoso,"Derechos 'fulminados' por Rajoy, exagerado; fragmento cortado"
+fpn_1176_d0,sin_falacia,"Queja sobre el debate, sin falacia"
+fpn_1176_d1,dudoso,"Autopromoción ('problemas reales de los españoles', 'de los mejores') sin datos"
+fpn_1177_a0,sin_falacia,Lista de logros de gestión
+fpn_1178_d0,sin_falacia,Informa de un hecho: ley aprobada y recurrida
+fpn_1179_a0,sin_falacia,Logros propios y crítica concreta a recortes
+fpn_1179_d0,sin_falacia,Compromiso concreto de gobierno paritario
+fpn_1179_d1,no_valido,Moderador cambiando de bloque
+fpn_1183_d0,sin_falacia,Propuesta concreta con su justificación
+fpn_1183_d1,dudoso,Pregunta que presupone corrupción; posible pregunta compleja o del moderador
+fpn_1184_a0,dudoso,Ataque por SMS a Bárcenas; posible ad hominem
+fpn_1184_a1,sin_falacia,"Aclaración de lo dicho, sin falacia"
+fpn_1184_d0,sin_falacia,"Postura sobre acuerdos entre partidos, sin falacia"
+fpn_1184_d1,sin_falacia,Argumenta apoyándose en el resultado electoral
+fpn_1186_a0,sin_falacia,Menciona un precedente concreto
+fpn_1189_a0,no_valido,Parece pregunta de periodista; transcripción defectuosa
+fpn_1190_d0,dudoso,Posible generalización desde casos de algunos candidatos
+fpn_1194_d0,sin_falacia,Dato de meses sin gobierno y postura propia
+fpn_1195_a0,dudoso,Fragmento cortado que anticipa descalificar a 'los que hablan del miedo'
+fpn_1202_a0,falacia,Hombre de paja: atribuye al PSOE un modelo de los 80
+fpn_1202_a1,sin_falacia,Propuesta de reducir burocracia con ejemplo propio
+fpn_1205_d0,sin_falacia,Niega una afirmación y propone medida fiscal concreta
+fpn_1206_a0,dudoso,Frase suelta tipo consigna sin argumento; posible eslogan
+fpn_1207_a0,dudoso,Exige sí o no y final confuso con posible insinuación personal
+fpn_1207_d0,falacia,Ad hominem: 'no vale nada en su boca'
+fpn_1209_a0,falacia,"Ad hominem: descalifica al rival por lo que dicen, no por su argumento"
+fpn_1211_d0,sin_falacia,Defiende su política fiscal y propone cotización por ingresos
+fpn_1212_a0,no_valido,Propuestas mezcladas con cierre de turno del moderador
+fpn_1212_d0,sin_falacia,Propuesta fiscal concreta con cifras
+fpn_1213_a0,falacia,Generalización apresurada: todos los avances vienen de los socialistas
+fpn_1213_a1,dudoso,Declaración de valores genérica; posible eslogan
+fpn_1217_a0,no_valido,Intervención del moderador sobre turnos
+fpn_1217_a1,no_valido,Mezcla moderador y orador
+fpn_1217_d0,sin_falacia,Enumeración de logros concretos en pensiones
+fpn_1218_a0,no_valido,Intervención del moderador
+fpn_1219_d0,sin_falacia,Objetivo programático sobre servicios públicos
+fpn_1220_a0,dudoso,Acusación de demagogia sin argumento; posible ad hominem
+fpn_1224_a0,no_valido,"Transcripción defectuosa, no se entiende"
+fpn_1224_a1,dudoso,Acusa de ignorancia o mentira antes de explicar el dato
+fpn_1224_d0,sin_falacia,Aclara un dato de gasto y su uso
+fpn_1225_a0,dudoso,Atribuye resignación absoluta al PSOE; posible hombre de paja
+fpn_1227_a0,dudoso,Acusa de difundir bulos sin argumentar; posible ad hominem
+fpn_1228_a0,sin_falacia,Postura fiscal con razón explícita sobre servicios públicos
+fpn_1228_a1,falacia,"Generalización apresurada: ""siempre van a decir"" a partir de dos casos"
+fpn_1228_a2,sin_falacia,Indica fuente concreta de financiación
+fpn_1231_a0,falacia,"Apelación a la emoción y ataque: 'golpe de Estado', 'vergüenza'"
+fpn_1231_a1,falacia,Lenguaje emotivo ('vendidos') y socios golpistas: apelación a la emoción
+fpn_1231_d0,sin_falacia,Declaración breve de intención de pacto
+fpn_1231_d1,dudoso,Desacredita por asociación con PNV y ERC
+fpn_1231_d2,dudoso,Atribuye a rivales una postura inferida; posible hombre de paja
+fpn_1234_a0,no_valido,Mezcla al moderador ('Primer turno...') con el orador
+fpn_1234_d0,sin_falacia,Propuesta concreta de diálogo territorial
+fpn_1237_a0,dudoso,Habla en nombre de los ciudadanos cansados; posible ad populum
+fpn_1237_a1,sin_falacia,Expone una postura política clara sin falacia
+fpn_1237_a2,dudoso,Frase vacía de contenido; posible eslogan
+fpn_1240_a0,no_valido,Moderador explicando las reglas de interrupción
+fpn_1243_a0,dudoso,Llamamiento moral emotivo; posible apelación a la emoción
+fpn_1245_d0,sin_falacia,Recuerda un hecho: el PSOE apoyó el 155
+fpn_1248_d0,sin_falacia,Datos de subida de pensiones y crítica concreta
+fpn_1248_d1,no_valido,"Incoherente, mezcla interpelaciones e interrupciones"
+fpn_1250_a0,falacia,Ad hominem: ataca al rival y a Sánchez en vez de argumentar
+fpn_1250_d0,sin_falacia,Medidas sobre pensiones y datos demográficos
+fpn_1253_a0,no_valido,"Texto incomprensible, interrupción sin contenido"
+fpn_1253_d0,dudoso,Acusación emotiva de vaciar la hucha; posible miedo
+fpn_1253_d1,sin_falacia,Valoración razonada sobre la dificultad de las pensiones
+fpn_1259_d0,sin_falacia,Propuesta fiscal basada en el principio constitucional de progresividad
+fpn_1259_d1,sin_falacia,Opinión sobre política fiscal sin falacia
+fpn_1260_a0,falacia,Ad hominem: 'la izquierda del siglo XIX'
+fpn_1260_a1,sin_falacia,Afirmación sobre economía global y libertad
+fpn_1260_d0,no_valido,Trámite: pide turno por alusiones
+fpn_1263_d0,sin_falacia,Reivindica propuestas propias y pregunta al rival
+fpn_1263_d1,no_valido,Fragmento cortado e incomprensible
+fpn_1264_d0,sin_falacia,Argumento de coherencia citando un artículo concreto de la Constitución
+fpn_1265_a0,sin_falacia,"Expresa un deseo político, sin falacia"
+fpn_1265_d0,dudoso,Compara Estado con familias y empresas; posible falsa analogía
+fpn_1267_d0,sin_falacia,Propuesta fiscal concreta con cifras
+fpn_1267_d1,sin_falacia,Propuesta fiscal concreta
+fpn_1267_d2,sin_falacia,Medida fiscal concreta contra la despoblación
+fpn_1267_d3,sin_falacia,Propuesta fiscal concreta para startups
+fpn_1268_a0,sin_falacia,Valoración política breve sobre influencia de Vox en el PP
+fpn_1268_a1,dudoso,Afirmaciones contradictorias seguidas; posible mezcla de oradores
+fpn_1268_a2,dudoso,Victimismo irónico sin argumento; posible apelación a la emoción
+fpn_1268_d0,dudoso,Cifra del 80% y lenguaje emotivo; posible ad populum
+fpn_1271_a0,no_valido,Mezcla trámite de turnos y frase cortada sin desarrollar
+fpn_1271_d0,no_valido,Intervención del moderador
+fpn_1274_a0,falacia,Falsa analogía: indulto penal comparado con cuota de autónomos e IRPF
+fpn_1274_a1,dudoso,Saltos de tema confusos; acusación de que el Estado se retira
+fpn_1274_a2,dudoso,"Comparación con Rentería: posible falsa analogía, fragmento truncado"
+fpn_1277_a0,sin_falacia,Propuestas concretas sobre tarjeta sanitaria y requisito lingüístico
+fpn_1278_a0,no_valido,Mezcla moderador (nombre del candidato) y orador
+fpn_1278_d0,falacia,Hombre de paja: 'ustedes no quieren sanidad ni educación pública'
+fpn_1278_d1,falacia,Eslogan repetitivo y ataque emotivo: 'vuestra patria es mentira'
+fpn_1282_a0,falacia,Ad populum ('gente de todos quiere votar') y eslogan 'votar no es delito'
+fpn_1282_a1,falacia,Falsa analogía: referéndum sobre Rufián frente a autodeterminación
+fpn_1282_a2,falacia,Apelación a la identidad y ataque a independentistas del lazo amarillo
+fpn_1282_a3,falacia,Apelación a la identidad con símbolos y bandera contra el rival
+fpn_1282_d0,falacia,Generalización/hombre de paja: 'la izquierda siempre miráis al pasado'
+fpn_1282_d1,dudoso,Argumento procedimental pero apela al sentimiento de pertenencia (identidad)
+fpn_1282_d2,falacia,Ad hominem: ataca la valentía de los dirigentes independentistas
+fpn_1282_d3,dudoso,"Concluye de un solo caso que no hay presos políticos, posible generalización"
+fpn_1284_a0,falacia,Ad hominem (tu quoque): no aceptar lecciones por un vídeo del rival
+fpn_1284_a1,dudoso,"'Retórica del odio sin fin'; posible apelación al miedo, incompleto"
+fpn_1284_d0,sin_falacia,"Reformula el problema como democrático, sin falacia clara"
+fpn_1285_a0,sin_falacia,"Defiende un modelo territorial, sin falacia"
+fpn_1285_a1,falacia,Apelación a la emoción ('personas de paz'); además mezcla oradores
+fpn_1285_a2,no_valido,Errores de transcripción hacen el fragmento poco comprensible
+fpn_1286_a0,dudoso,"Lenguaje cargado ('cómplice necesario'), posible ad hominem o emoción"
+fpn_1286_d0,falacia,"Eslogan: 'No a..., no a..., sí al diálogo y sí a la Constitución'"
+fpn_1286_d1,dudoso,Insinúa culpa del PP por coincidencia temporal; posible falsa causa
+fpn_1286_d2,sin_falacia,Descripción factual de la declaración de independencia
+fpn_1286_d3,sin_falacia,"Contrasta comportamientos ante la crisis, tono crítico"
+fpn_1286_d4,falacia,Pregunta compleja con premisas cargadas sobre extrema derecha
+fpn_1290_d0,dudoso,"Desacredita de antemano a la izquierda ('anota lecciones'), posible envenenar el pozo"
+fpn_1293_d0,no_valido,Frase suelta sin contexto ni contenido
+fpn_1293_d1,sin_falacia,Explica una medida concreta en sanidad
+fpn_1293_d2,dudoso,'La gente lo que quiere' generaliza; posible ad populum
+fpn_1294_a0,dudoso,Posible ataque por asociación (ad hominem) al PP vinculándolo a Vox
+fpn_1298_d0,sin_falacia,Propuesta de pacto transparente con el PP
+fpn_1298_d1,no_valido,Fragmento incompleto sin contenido argumentativo
+fpn_1298_d2,dudoso,'El futuro de nuestros hijos' y causalidad simplista; posible falsa causa
+fpn_1298_d4,no_valido,Pregunta del moderador seguida de respuesta del candidato
+fpn_1298_d5,no_valido,Mezcla pregunta del moderador y respuesta de orador
+fpn_1301_a0,no_valido,Transcripción confusa con intervención ajena mezclada
+fpn_1301_d0,dudoso,Un solo caso (Gandía) para sembrar duda; posible generalización apresurada
+fpn_1301_d1,sin_falacia,Critica la incoherencia de pactos con ejemplos
+fpn_1302_a0,dudoso,Apela a principios y valores vagos; posible apelación a la identidad
+fpn_1306_d0,dudoso,"Petición de voto tipo consigna, sin argumento en el fragmento"
+fpn_1307_a0,no_valido,"Mezcla candidato y moderador (""Tiene la palabra"")"
+fpn_1307_d0,falacia,Apelación a la emoción: lucha de generaciones pasadas
+fpn_1307_d1,dudoso,Fragmento emotivo sin argumento; posible apelación a la emoción
+fpn_1307_d2,falacia,Eslogan: frase breve y evocadora sin contenido argumentativo
+fpn_1307_d3,dudoso,Lenguaje identitario sin argumento; posible apelación a la emoción
+fpn_1307_d4,dudoso,Frase suelta tipo eslogan; posible ad populum ('todo el mundo')
+fpn_1311_a0,dudoso,"Insinuación sobre el pasado del partido rival, posible ad hominem"
+fpn_1311_a1,falacia,Apelación a la emoción: petición de voto 'mirar al futuro contigo'
+fpn_1315_a0,sin_falacia,Informa de una declaración de apoyo del rival
+fpn_1315_a1,falacia,"Falso dilema: el PP como ""única alternativa""; exageración del daño"
+fpn_1318_a0,sin_falacia,Propuesta fiscal concreta con su justificación
+fpn_1322_a0,falacia,Hombre de paja: reduce la propuesta rival a favorecer a los ricos
+fpn_1322_a1,falacia,Ad hominem tu quoque y falsa causa ('crisis de la izquierda')
+fpn_1328_d0,no_valido,Mezcla eslogan del orador e indicación del moderador
+fpn_1331_a0,sin_falacia,Reivindica autoría de la subida del salario mínimo
+fpn_1331_d0,sin_falacia,Dato sobre subida del salario mínimo acordada
+fpn_1331_d1,dudoso,Usa otros países europeos como garantía y añade apelación emotiva al Día de la Tierra
+fpn_1332_d0,dudoso,"Frase tipo eslogan ('un derecho, no un milagro, no un lujo') sin argumento"
+fpn_1334_d0,falacia,Falsa causalidad: PP y PSOE culpables de la caída de natalidad
+fpn_1342_d0,dudoso,Insinuación sobre candidatas del rival: posible ad hominem
+fpn_1345_a0,no_valido,Intervención del moderador sobre bloques del debate
+fpn_1345_a1,no_valido,Mezcla moderador y candidato
+fpn_1350_a0,falacia,Apelación a la identidad: 'España es grande' sin argumentos
+fpn_1357_a0,falacia,Ad populum: 'eso lo sabemos todos' como sentido común
+fpn_1357_a1,dudoso,"Evidencia concreta, pero ridiculiza a Calvo comparándola con Gila"
+fpn_1357_d0,falacia,"Apelación a la emoción/identidad: ""le humillen en su propia casa"""
+fpn_1357_d1,no_valido,Disputa por el turno de palabra
+fpn_1357_d2,no_valido,Mezcla moderador y orador
+fpn_1357_d3,falacia,Ad hominem: 'el de la tesis de mentira'
+fpn_1364_a0,dudoso,"Burla al rival, transcripción confusa; posible ad hominem"
+fpn_1369_a0,dudoso,Posible apelación emotiva y causa atribuida a Zapatero
+fpn_1370_d0,falacia,Hombre de paja: deduce del silencio que indultará a los presos
+fpn_1370_d1,no_valido,Intervención del moderador repartiendo bloque
+fpn_1370_d2,no_valido,Parece el moderador planteando el tema
+fpn_1374_a0,dudoso,Etiqueta y predicción sin argumentos; posible envenenar el pozo
+fpn_1374_a1,no_valido,"Empieza con el moderador dando turno (""Señor Casado"")"
+fpn_1374_a2,no_valido,"Frase sin contexto, no se entiende"
+fpn_1375_a0,sin_falacia,Enumera propuestas concretas de seguridad e inmigración
+fpn_1375_d0,sin_falacia,Propuesta legal concreta sobre víctimas del terrorismo
+fpn_1377_d0,dudoso,'La ultraderecha es temible'; posible apelación al miedo
+fpn_1378_a0,dudoso,"Ataque a la credibilidad del rival, posible ad hominem"
+fpn_1378_a1,dudoso,'Lo sabe toda España' como prueba; posible ad populum
+fpn_1379_a0,sin_falacia,"Compromiso de renovación, sin falacia"
+fpn_1379_a1,dudoso,"Frase breve de apoyo a cuerpos de seguridad, posible apelación a identidad"
+fpn_1379_a2,sin_falacia,"Explica su oferta de diálogo a Casado, sin falacia"
+fpn_1379_d0,falacia,Falso dilema exagerado: nada se hablará si Torra manda
+fpn_1380_d0,dudoso,"Autoelogio de cierre sin argumentos, posible apelación a la emoción"
+fpn_1382_d0,dudoso,"Autoafirmación sin argumentos, posible eslogan"
+fpn_1383_a0,dudoso,"Promesas genéricas (justicia social, limpieza); posible eslogan"
+fpn_1384_d0,sin_falacia,"Afirma claridad sobre sus pactos, sin falacia de la guía"
+fpn_1385_a0,sin_falacia,Explica opciones de pacto con ejemplos concretos
+fpn_1387_a0,no_valido,No se entiende por errores de transcripción
+fpn_1393_d0,sin_falacia,Reconoce un problema compartido por ambos partidos
+fpn_1395_a0,sin_falacia,Explica qué es un falso autónomo y propone contrato laboral
+fpn_1395_a1,sin_falacia,Propuesta con contraargumento basado en hechos
+fpn_1396_a0,falacia,"Ad hominem: alude a Venezuela, Ecuador, Grecia para desacreditar"
+fpn_1396_d0,no_valido,Fragmento cortado sin contexto
+fpn_1396_d1,no_valido,Intervención del moderador introduciendo tema
+fpn_1397_d0,dudoso,Atribuye la hucha vacía a la política laboral: posible falsa causalidad
+fpn_1402_d0,dudoso,Culpa al gobierno anterior del déficit: posible falsa causa o mezcla de oradores
+fpn_1403_d0,sin_falacia,Propuesta concreta de reforma constitucional sobre pensiones
+fpn_1404_a0,falacia,Ad hominem: descalifica a rivales como mentirosos ('tantas mentiras')
+fpn_1408_a0,sin_falacia,Datos concretos sobre subida del alquiler
+fpn_1408_a1,sin_falacia,Explica una medida concreta sobre arrendamientos
+fpn_1408_a2,sin_falacia,Explicación de una medida sobre apartamentos turísticos
+fpn_1408_a3,no_valido,'Desamortización' parece error de transcripción; sentido poco claro
+fpn_1408_d0,sin_falacia,Medida concreta: plan de 20.000 viviendas de alquiler social
+fpn_1415_a0,no_valido,Parece mezclar oradores e interrupciones
+fpn_1415_d0,dudoso,Posible pista falsa; fragmento confuso
+fpn_1416_d0,sin_falacia,Atribuye recortes en dependencia con dato oficial
+fpn_1420_a0,dudoso,Efecto llamada como causa no demostrada; posible falsa causa
+fpn_1427_a0,dudoso,Supone acuerdo de todos y descalifica a Vox sin argumentar
+fpn_1428_a0,falacia,"Apelación a la emoción (me humilla, me indigna) y descalificación"
+fpn_1434_d0,sin_falacia,Propuestas educativas concretas con experiencia personal
+fpn_1434_d1,no_valido,Parece mezclar interjección del moderador
+fpn_1437_a0,falacia,Frase genérica sin contenido: eslogan
+fpn_1437_a1,dudoso,Atribuye al rival prohibir toros y caza; posible hombre de paja
+fpn_1448_a0,no_valido,Mezcla moderador y candidato
+fpn_1448_d0,no_valido,Despedida y agradecimientos del moderador
+fpn_1450_d0,falacia,Ad hominem/hombre de paja: atribuye al rival querer robar y enchufar
+fpn_1459_d0,sin_falacia,Enumera medidas concretas que aplicaría su partido
+fpn_1459_d1,falacia,"Falso dilema y autoexclusividad: solo nosotros, derechos o recortes"
+fpn_1463_d0,no_valido,Mezcla candidato y moderador
+fpn_1466_d0,sin_falacia,Corrección conceptual razonada del problema planteado
+fpn_1468_a0,sin_falacia,"Opinión sobre recuperar el control, sin falacia de la guía"
+fpn_1468_d0,dudoso,Imagen de disturbios cargada emocionalmente; posible apelación al miedo
+fpn_1468_d1,falacia,"Apelación a la identidad: ""en contra de España"""
+fpn_1471_d0,sin_falacia,Postura clara sobre aplicar la ley en Cataluña
+fpn_1474_d0,dudoso,"Errores de transcripción y pulla personal ('ya debería saberlo'), posible ad hominem"
+fpn_1476_a0,no_valido,Diálogo entre dos oradores
+fpn_1476_a1,dudoso,"Ironía sobre buena fe, posible envenenar el pozo; truncado"
+fpn_1476_d0,no_valido,Demasiado corto y sin contexto
+fpn_1477_a0,dudoso,"Afirmaciones tajantes sin argumento, tipo eslogan"
+fpn_1477_d0,dudoso,Afirmación tipo eslogan sobre el Estado de derecho sin argumentos
+fpn_1479_a0,no_valido,Mezcla varios oradores e interrupciones
+fpn_1482_a0,dudoso,Autoelogio identitario sobre la unidad de España: posible apelación a la identidad
+fpn_1482_d0,no_valido,"Fragmento cortado, no se entiende el argumento"
+fpn_1484_a0,dudoso,Contraste emotivo con agentes heridos; posible apelación a la emoción
+fpn_1484_d0,no_valido,Intervención del moderador dando la palabra
+fpn_1484_d1,sin_falacia,Opinión razonada sobre la naturaleza política del conflicto
+fpn_1486_a0,falacia,"Ad hominem y generalización: 'chollo para el separatismo', 'siempre hacéis lo mismo'"
+fpn_1490_a0,sin_falacia,Propuesta concreta sobre adjudicaciones públicas
+fpn_1491_d0,dudoso,Pregunta retórica que anticipa descrédito; fragmento incompleto
+fpn_1495_a0,sin_falacia,Diagnóstico razonado sobre fuga de talento científico
+fpn_1495_a1,sin_falacia,Propuesta energética justificada con dato de precios
+fpn_1495_d0,falacia,Hombre de paja: atribuye a la derecha ocultar la economía
+fpn_1497_a0,falacia,'Se demuestra en otros países' como garantía: apelación a la autoridad
+fpn_1497_d0,dudoso,"Atribución causal simplista a los socialistas, posible falsa causa"
+fpn_1498_d0,falacia,Ad hominem (tu quoque) contra Echenique
+fpn_1498_d1,falacia,O comunistas o Ciudadanos: falso dilema
+fpn_1502_a0,falacia,Ad hominem/hombre de paja: acusa a los rivales de mentir a sabiendas
+fpn_1503_a0,dudoso,Discurso identitario sobre 'mujeres fuertes': posible apelación a la identidad
+fpn_1503_a1,dudoso,Acusa de demagogia; posible hombre de paja
+fpn_1503_a2,sin_falacia,Dato sobre mujeres asesinadas
+fpn_1503_a3,no_valido,No se entiende por errores de transcripción
+fpn_1504_a0,dudoso,"""Como pretenden otros"": posible hombre de paja"
+fpn_1507_a0,sin_falacia,Propuesta de reparto equitativo con justificación
+fpn_1507_d0,no_valido,"Fragmento sin sujeto, incompleto"
+fpn_1507_d1,sin_falacia,Crítica con dato sobre la industria del automóvil
+fpn_1509_a0,sin_falacia,Dato factual sobre dónde gobiernan
+fpn_1513_d0,sin_falacia,Crítica a la actitud negociadora de los rivales
+fpn_1513_d1,sin_falacia,"Señala cambio de postura del rival, crítica sin falacia"
+fpn_1513_d2,sin_falacia,Crítica argumentada y matizada sobre la repetición electoral
+fpn_1513_d3,dudoso,Fragmento cortado; relación causal poco clara entre cifra y cambio de postura
+fpn_1515_a0,no_valido,Pregunta repetida sin contenido
+fpn_1516_a0,no_valido,Mezcla moderador y orador
+fpn_1517_d0,dudoso,"""Nada se ha conseguido a la primera"": posible generalización con carga emotiva"
+fpn_1517_d1,falacia,Llamada a perseverar con confianza: apelación a la emoción
+fpn_1522_a0,sin_falacia,Argumento sobre coalición apoyado en el precedente de Andalucía
+fpn_1523_a0,falacia,Eslogan repetido pidiendo el voto
+fpn_1523_a1,sin_falacia,"Enumera deseos de política concretos (pacto educativo, pensiones, natalidad) sin falacia"
+fpn_1528_a0,no_valido,Mezcla pregunta del moderador y respuesta del candidato
+fpn_1528_a1,falacia,Descalifica al rival por tener a Franco como referente: ad hominem
+fpn_1528_d0,falacia,Ad hominem: insultos a Sabino Arana para descalificar al rival
+fpn_1533_a0,sin_falacia,Argumenta a favor de pactar un gobierno
+fpn_1533_d0,dudoso,Repetición vaga de 'desbloquear'; posible eslogan
+fpn_1538_d0,falacia,"Apelación al miedo: ""la derecha va por todos""; quizá dos oradores"
+fpn_1539_d0,falacia,Ad hominem: colección de golpistas
+fpn_1539_d1,falacia,Ad populum: 'lo ha entendido todo el mundo'
+fpn_1542_d0,dudoso,Se presenta como garantía con razón débil; posible falsa causa
+fpn_1546_d0,sin_falacia,Línea roja de pactos expresada sin falacia
+fpn_1549_a0,no_valido,Frase suelta sin contenido argumentativo
+fpn_1550_a0,dudoso,Sin contexto; puede deformar lo dicho por el rival
+fpn_1553_d0,falacia,Falso dilema: 'uno está por la libertad de expresión o no'
+fpn_1554_a0,dudoso,Autoalabanza sin argumentos e invocación de la Constitución; transcripción confusa
+fpn_1560_d0,dudoso,Generaliza sobre el rival; transcripción algo confusa
+fpn_1561_a0,no_valido,Mezcla pregunta de candidato e intervención del moderador
+fpn_1561_a1,falacia,Generalización apresurada: 'a todo el mundo le importa un bledo'
+fpn_1569_a0,no_valido,Cortado; la idea queda incompleta
+fpn_1573_a0,dudoso,Texto confuso; posible hombre de paja sobre bajada masiva
+fpn_1576_a0,no_valido,Mezcla moderador y orador
+fpn_1576_d0,no_valido,"Incluye cierre del moderador ('Muchas gracias, señora Borràs')"
+fpn_1579_a0,no_valido,"Empieza con marca de turno del moderador, mezcla de oradores"
+fpn_1579_a1,sin_falacia,Describe la situación de jóvenes en paro o emigrados
+fpn_1579_a2,sin_falacia,Dato sobre asalariados mileuristas
+fpn_1582_a0,dudoso,Insinúa que el rival defiende a los poderosos; posible envenenar el pozo
+fpn_1583_d0,falacia,"Apelación a la emoción: 'ahora más que nunca', 'hasta las narices'"
+fpn_1589_a0,no_valido,Pregunta del moderador y saludo
+fpn_1589_a1,dudoso,Posible pista falsa: desvía la pregunta hacia condiciones electorales
+fpn_1589_a2,sin_falacia,Argumenta con la voluntad de acuerdo de los partidos
+fpn_1589_d0,no_valido,Incluye frase del moderador dando turno
+fpn_1593_a0,sin_falacia,"Frase introductoria neutral, sin falacia"
+fpn_1594_d0,falacia,Apelación a la autoridad: Adolfo Suárez como garantía
+fpn_1595_a0,dudoso,Responde por el rival atribuyéndole postura; posible hombre de paja
+fpn_1599_a0,sin_falacia,Propuesta concreta de medidas sobre Cataluña
+fpn_1599_d0,sin_falacia,Propuesta concreta de actuación judicial ante cortes de carreteras
+fpn_1599_d1,dudoso,Anécdota emotiva sin argumento; posible apelación a la emoción
+fpn_1602_d0,falacia,Apelación a la emoción: 'no están solos' y autoelogio sin argumentos
+fpn_1603_a0,dudoso,Propuestas con lenguaje cargado ('adoctrinamiento') y apelación identitaria ('tierra maravillosa')
+fpn_1603_d0,no_valido,Empieza con el moderador indicando tiempo
+fpn_1609_d0,sin_falacia,Dato de deuda pública respecto al PIB
+fpn_1610_d0,falacia,Falsa causalidad: atribuye la situación solo al despilfarro autonómico
+fpn_1612_d0,sin_falacia,Crítica a una propuesta fiscal del rival
+fpn_1612_d1,sin_falacia,Propuesta fiscal concreta con cifra
+fpn_1616_a0,sin_falacia,Propuesta concreta de pensiones
+fpn_1617_a0,dudoso,Propuesta concreta pero con etiqueta emotiva 'impuesto a la muerte'
+fpn_1618_a0,dudoso,Atribuye toda la corrupción al bipartidismo con cifra citada; posible exageración
+fpn_1623_a0,sin_falacia,Argumenta la necesidad de estabilidad parlamentaria
+fpn_1623_a1,falacia,Hombre de paja: atribuye al rival que 'todo es gratis'
+fpn_1623_d0,sin_falacia,Datos de costes de duplicidades
+fpn_1623_d1,sin_falacia,Propuesta fiscal detallada con cifras
+fpn_1625_a0,falacia,Apela a su propia experiencia y se erige portavoz de los españoles
+fpn_1625_a1,sin_falacia,Crítica basada en una observación sobre pactos
+fpn_1626_d0,sin_falacia,Introduce un tema con un hecho informativo
+fpn_1627_a0,sin_falacia,Postura sobre clima y economía sin falacia
+fpn_1627_d0,sin_falacia,"Defiende la acción climática del gobierno, sin falacia de la guía"
+fpn_1627_d1,sin_falacia,Datos de un plan de energía y clima
+fpn_1628_a0,no_valido,Mezcla compromiso del candidato con intervención del moderador sobre tiempos
+fpn_1628_d0,falacia,Apelación al miedo ante crisis y ataque a Sánchez (viejos odios)
+fpn_1631_a0,sin_falacia,Aporta un dato de paro
+fpn_1631_d0,sin_falacia,Crítica con dato sobre temporalidad
+fpn_1632_a0,sin_falacia,Logro con dato concreto sobre revalorización de pensiones
+fpn_1632_d0,sin_falacia,Datos concretos sobre subida de pensiones
+fpn_1632_d1,falacia,Generalización apresurada: la izquierda 'siempre deja quebrado' el sistema
+fpn_1636_a0,falacia,"Ad hominem: ""derecha cobarde"""
+fpn_1636_d0,sin_falacia,Datos de deuda sanitaria y medidas tomadas
+fpn_1638_a0,sin_falacia,Afirmación de igualdad territorial sin falacia
+fpn_1639_a0,falacia,Hombre de paja: atribuye al rival desdibujar España para contentar nacionalistas
+fpn_1639_a1,sin_falacia,Pregunta al público sobre un problema concreto
+fpn_1639_a2,dudoso,Propuestas con cierre repetitivo 'igualdad de verdad'; posible eslogan
+fpn_1639_d0,dudoso,Apela a ser español en toda España; posible apelación a la identidad
+fpn_1639_d1,no_valido,Mezcla orador y moderador repartiendo tiempos
+fpn_1641_a0,no_valido,Mezcla moderador y orador
+fpn_1645_a0,dudoso,Insinúa intento de compra con sillones; posible ad hominem
+fpn_1646_a0,sin_falacia,Propuestas concretas de bienestar animal
+fpn_1646_a1,sin_falacia,Defiende sus propuestas y señala que no se le responde
+fpn_1646_d0,falacia,"Apelación a la identidad: compatriotas, nuestra patria"
+fpn_1646_d1,dudoso,Preguntas que presuponen ayudas a la inmigración ilegal: posible pregunta compleja
+fpn_1646_d2,no_valido,"Trámite sobre organización de bloques, sin contenido"
+fpn_1651_a0,sin_falacia,Argumento con datos electorales sobre pactos tras 2015
+fpn_1651_a1,sin_falacia,Relato de hechos sobre pactos de gobierno
+fpn_1651_d0,dudoso,Solo dos opciones de gobierno; posible falso dilema
+fpn_1651_d1,no_valido,Comentario de moderador sobre quién ha interpelado a quién
+fpn_1656_d0,sin_falacia,Lista de medidas puestas en marcha en Madrid
+fpn_1661_a0,falacia,Ad hominem y ad populum: 'nadie cree en su convicción'
+fpn_1661_d0,no_valido,Frase de transición sin contenido
+fpn_1662_d0,sin_falacia,Resume lo dicho por el rival sin deformarlo claramente
+fpn_1662_d1,dudoso,Advierte de costes sin concretar; posible apelación al miedo
+fpn_1667_a0,dudoso,"Insinúa intenciones sin pruebas, posible envenenar el pozo"
+fpn_1667_a1,falacia,Envenenar el pozo: atribuye motivos ocultos al rival sin pruebas
+fpn_1667_a2,dudoso,Atribuye intención oculta al rival; texto entrecortado
+fpn_1667_a3,sin_falacia,Aporta un dato concreto sobre ayudas a víctimas del franquismo
+fpn_1667_d0,dudoso,Descalifica al candidato por sus posibles pactos
+fpn_1668_a0,falacia,Apelación a la identidad: 'columnas de la sociedad occidental'
+fpn_1668_d0,no_valido,Intervención del moderador
+fpn_1670_a0,no_valido,Moderador asignando turno
+fpn_1670_a1,dudoso,Introducción sin contenido; 'preocupa en toda Europa' roza ad populum
+fpn_1674_d0,sin_falacia,Propuesta de acuerdos comerciales con sus razones
+fpn_1674_d1,falacia,Eslogan y apelación a la identidad: 'confiemos en nuestros agricultores...'
+fpn_1679_d0,dudoso,"Pregunta con premisa cargada (""se entrometió""); posible pregunta compleja"
+fpn_1680_a0,no_valido,Mezcla candidato y moderador
+fpn_1680_a1,no_valido,Moderador dando la palabra mezclado con orador
+fpn_1686_d0,falacia,"Generalización: crisis ""que siempre nos deja la izquierda"""
+fpn_1688_a0,no_valido,Parece mezcla de dos oradores en un intercambio
+fpn_1688_a1,sin_falacia,Explica su prioridad con un ejemplo concreto en Madrid
+fpn_1690_a0,sin_falacia,Propuesta sobre legislación laboral con razones
+fpn_1690_a1,no_valido,Pregunta del moderador
+fpn_1692_d0,sin_falacia,Datos de gestión sobre paro y empleo
+fpn_1692_d1,sin_falacia,Enumera un logro concreto de empleo
+fpn_1692_d2,dudoso,Autoridad de haberlo visto en persona; fragmento incompleto
+fpn_1692_d3,sin_falacia,Dato de paro juvenil y lista de reformas realizadas
+fpn_1695_d0,sin_falacia,Lista concreta de rebajas fiscales propuestas
+fpn_1700_a0,no_valido,Mayormente gestión de turno; transcripción confusa
+fpn_1701_d0,dudoso,Propuesta razonada pero cierra desacreditando al PSOE por el pasado
+fpn_1702_a0,falacia,Falsa causalidad y lenguaje emotivo: pérdida de poder adquisitivo por recortes
+fpn_1702_a1,sin_falacia,Argumento sobre devolución de la deuda bancaria
+fpn_1702_a2,sin_falacia,Opinión sobre la función del gobierno
+fpn_1707_a0,no_valido,Trámite: anuncia una pregunta
+fpn_1709_d0,dudoso,Preguntas retóricas emotivas sin contenido; posible eslogan o emoción
+fpn_1713_a0,dudoso,Defensa identitaria y reproche personal; posible apelación a la identidad
+fpn_1724_a0,sin_falacia,Opinión sobre prioridades frente a recentralizar
+fpn_1724_d0,sin_falacia,Propuesta sanitaria concreta con su justificación
+fpn_1724_d1,sin_falacia,Informa de una propuesta concreta sobre competencias penitenciarias
+fpn_1724_d2,no_valido,Moderador repartiendo turnos
+fpn_1726_d0,dudoso,"""Lo mejor de cada casa, con Bildu"": posible ad hominem por asociación"
+fpn_1726_d1,dudoso,Réplica tu quoque sin contexto; posible ad hominem
+fpn_1727_a0,falacia,"Ad hominem/envenenar el pozo: ""puertas giratorias para sus amiguetes"""
+fpn_1732_d0,dudoso,"Confuso; pregunta retórica que desvía, posible pista falsa"
+fpn_1734_d0,dudoso,Burla 'el del Falcon'; posible ad hominem
+fpn_1734_d1,dudoso,Inicio parece respuesta a interrupción; posible mezcla de oradores
+fpn_1736_d0,dudoso,Caso individual para generar empatía; posible apelación a la emoción
+fpn_1737_a0,no_valido,"Fragmento incompleto, sin sentido por sí mismo"
+fpn_1737_d0,dudoso,"Mete a izquierda, centro y derecha en el mismo saco; posible generalización apresurada"
+fpn_1745_a0,sin_falacia,Valoración moderada de la situación sin recurso falaz claro
+fpn_1747_a0,sin_falacia,Objetivo concreto de empleo
+fpn_1747_d0,no_valido,"Varias voces mezcladas, confuso"
+fpn_1751_a0,falacia,Apelación al miedo con caso aislado de violación
+fpn_1751_a1,falacia,Apelación al miedo con caso concreto; parece mezclar oradores
+fpn_1751_d0,falacia,Eslogan: 'el pegamento de Vox'
+fpn_1753_a0,no_valido,Fragmento incompleto
+fpn_1757_d0,dudoso,Corrección factual pero acaba con insinuación personal
+fpn_1760_d0,dudoso,Acusa de retroceso democrático sin argumento; interrupciones
+fpn_1763_a0,falacia,Ad populum: justifica la ley por el respaldo mayoritario de la sociedad
+fpn_1766_a0,dudoso,Responde a la acusación desviando a pactos del PP con Vox: posible pista falsa
+fpn_1768_a0,dudoso,"""PP y Vox son lo mismo"": posible generalización apresurada"
+fpn_1768_a1,dudoso,Atribuye maldad a dirigentes rivales; posible ad hominem
+fpn_1769_d0,dudoso,Posible mezcla de oradores y réplica tu quoque / ad hominem
+fpn_1777_d0,sin_falacia,Señala incoherencia del rival apoyada en un dato
+fpn_1783_a0,sin_falacia,Pregunta directa por la posición del rival
+fpn_1783_a1,sin_falacia,Relata un hecho y critica falta de información
+fpn_1784_a0,sin_falacia,Recuerda una declaración concreta del rival
+fpn_1784_a1,falacia,Ad hominem: acusa al rival de mentir y de insultar
+fpn_1784_d0,no_valido,"Fragmento cortado, no se entiende"
+fpn_1793_d0,falacia,Ad hominem: 'pasará a la historia por pésimos ministros'
+fpn_1794_a0,no_valido,Mezcla moderador y candidato
+fpn_1794_d0,dudoso,Frase suelta que sugiere alarma; posible apelación al miedo
+fpn_1795_d0,no_valido,Moderador y saludo de trámite
+fpn_1797_a0,falacia,"Eslogan: nos venden una moto, España no va como una moto"
+fpn_1797_a1,sin_falacia,Crítica apoyada en datos de recaudación y deuda
+fpn_1797_d0,sin_falacia,Propuesta fiscal concreta
+fpn_1798_a0,dudoso,"Datos de paro, pero acusa de mentir; posible ad hominem"
+fpn_1799_a0,no_valido,"Mezcla moderador (turnos, saludos) y frase de un orador"
+fpn_1799_a1,dudoso,Burla a la competencia de los rivales; posible ad hominem
+fpn_1799_a2,sin_falacia,Constatación sobre falta de crecimiento sostenido para los jóvenes
+fpn_1799_a3,dudoso,Atribuye todo empeoramiento al gobierno: posible falsa causa/generalización
+fpn_1799_d0,sin_falacia,Dato sobre presión fiscal comparada con la OCDE
+fpn_1803_a0,no_valido,Parece mezclar intervención y pregunta de otro orador; incoherente
+fpn_1803_a1,sin_falacia,Corrige un dato sobre el PIB
+fpn_1803_a2,dudoso,"Confuso; ""ustedes nos han hundido"" posible falsa causalidad"
+fpn_1803_a3,sin_falacia,Dato económico sobre recuperación del PIB
+fpn_1808_a0,no_valido,Intervención del moderador sobre tiempos
+fpn_1809_d0,sin_falacia,"Explica su apoyo y compromiso, sin falacia"
+fpn_1810_a0,sin_falacia,Crítica factual sobre votación y propuesta de pensiones
+fpn_1810_d0,no_valido,Intervención del moderador
+fpn_1811_a0,no_valido,Incomprensible sin contexto
+fpn_1811_d0,sin_falacia,Describe la preocupación por la falta de oportunidades
+fpn_1811_d1,falacia,"Eslogan y generalización contra ""la izquierda"""
+fpn_1811_d2,falacia,"Apelación al miedo: multiculturalismo incendiando calles, criminalidad"
+fpn_1813_a0,dudoso,Habla en nombre de los españoles: posible ad populum; incompleto
+fpn_1821_a0,no_valido,Fragmento suelto sin contexto suficiente
+fpn_1821_a1,no_valido,"Puro trámite, sin contenido"
+fpn_1822_a0,sin_falacia,Crítica a la contabilidad del paro y a la política social
+fpn_1823_a0,falacia,"Envenenar el pozo, idéntico al ejemplo de la guía"
+fpn_1825_a0,sin_falacia,Argumento con datos del CGPJ comparando ocupaciones y desahucios
+fpn_1826_d0,falacia,"Causa simplista de la subida del alquiler y ""como hacen siempre"": falsa causalidad"
+fpn_1829_a0,falacia,Hombre de paja: atribuye al rival 'siempre' fines de negocio y fondos buitre
+fpn_1833_d0,falacia,"Envenenar el pozo: 'gobierno Frankenstein', hasta dónde llegará"
+fpn_1834_a0,sin_falacia,Defiende un logro de gobierno en Cataluña
+fpn_1834_a1,dudoso,"Se erige en portavoz de la sociedad; posible ad populum, fragmento cortado"
+fpn_1835_d0,dudoso,"Comparación desahucio/referéndum poco clara, posible pista falsa"
+fpn_1836_a0,no_valido,"Frase cortada y mal transcrita, sin contenido claro"
+fpn_1837_a0,sin_falacia,Opinión razonada sobre Europa y política doméstica
+fpn_1837_d0,dudoso,Fragmento con estructura de posible falso dilema
+fpn_1839_a0,falacia,Hombre de paja: 'la diversidad a ustedes no les interesa nada'
+fpn_1839_a1,falacia,Hombre de paja/ad hominem: atribuye al rival el fin de colocar gente
+fpn_1840_a0,no_valido,Repeticiones por error de transcripción
+fpn_1841_d0,dudoso,Atribución causal y tono emotivo sobre los niños
+fpn_1843_a0,dudoso,Atribuye al rival una postura posiblemente deformada (hombre de paja)
+fpn_1844_a0,sin_falacia,"Declaración de postura sobre la independencia, sin falacia"
+fpn_1847_a0,no_valido,"Mezcla pregunta y respuesta, fragmento cortado"
+fpn_1848_a0,sin_falacia,Enumera propuestas políticas concretas
+fpn_1850_a0,sin_falacia,Explica estrategia de voto en provincias
+fpn_1851_a0,falacia,Ad hominem/envenenar el pozo: rival como brazo político de ETA
+fpn_1854_d0,no_valido,Mezcla al orador con el moderador cediendo la palabra
+fpn_1868_a0,dudoso,Atribuye intenciones ocultas sin pruebas; posible envenenar el pozo
+fpn_1868_a1,sin_falacia,"Posición política sobre ampliar derechos, sin falacia"
+fpn_1868_d0,dudoso,"Acusa de mentir; posible ad hominem, fragmento cortado"
+fpn_1869_a0,dudoso,Comentario personal sobre Colau sin argumento
+fpn_1871_a0,no_valido,Moderador explicando las reglas del debate
+fpn_1871_a1,no_valido,Intervención del moderador repartiendo turnos
+fpn_1871_a2,no_valido,Introducción neutra del moderador
+fpn_1871_a3,no_valido,Parece el moderador resumiendo posturas
+fpn_1871_d0,sin_falacia,"Transición anunciando hechos, sin falacia"
+fpn_1880_d0,dudoso,"Asociar por un pin es débil, aunque aporta dato de votaciones"
+fpn_1880_d1,dudoso,"Datos, pero calificativos cargados que rozan el ad hominem"
+fpn_1884_a0,dudoso,"Cita a Naciones Unidas como garantía, posible apelación a la autoridad"
+fpn_1884_d0,sin_falacia,Afirmación sobre la acción climática del gobierno
+fpn_1887_a0,dudoso,Fragmento con contraste emotivo ('familias no llegan a fin de mes')
+fpn_1887_a1,sin_falacia,Crítica concreta con un hecho sobre centrales térmicas
+fpn_1888_d0,dudoso,Posible exageración emotiva o hombre de paja sobre políticas
+fpn_1890_a0,dudoso,"Ataque y sarcasmo personal, aunque luego argumenta con votaciones"
+fpn_1890_d0,sin_falacia,Lista de logros con datos de empleo
+fpn_1890_d1,sin_falacia,Objetivo de pleno empleo y dato de contratos indefinidos
+fpn_1890_d2,falacia,Falsa causalidad (post hoc) atribuida a la reforma laboral
+fpn_1890_d3,falacia,Falsa causalidad: todo el avance gracias a la reforma laboral
+fpn_1891_d0,sin_falacia,Dato concreto sobre votaciones de los ERTE
+fpn_1892_d0,dudoso,"""Acabar con la precariedad"" exagerado; posible generalización sobre votos"
+fpn_1896_d0,sin_falacia,Explica su posición de voto con argumentos
+fpn_1896_d1,falacia,"Falsa causalidad: le apoya, luego es culpable de la economía"
+fpn_1901_a0,falacia,Se erige en portavoz de los espectadores: ad populum
+fpn_1901_a1,sin_falacia,Crítica apoyada en datos de inflación
+fpn_1903_a0,sin_falacia,Propuesta sanitaria justificada con un caso concreto
+fpn_1909_d0,dudoso,Lista de logros que acaba advirtiendo que peligran: posible apelación al miedo
+fpn_1918_a0,dudoso,Posible tergiversación de la ley de género del rival (hombre de paja)
+fpn_1918_d0,no_valido,Mezcla pregunta a Abascal y comentario de otro orador
+fpn_1918_d1,falacia,Caso anecdótico alarmante contra la ley: generalización apresurada y miedo
+fpn_1923_a0,sin_falacia,Observación sobre la ausencia de un candidato
+fpn_1932_d0,no_valido,"Truncado, sin contenido argumentativo completo"
+fpn_1936_d0,sin_falacia,Introduce una propuesta de acuerdo sobre cultura
+fpn_1937_a0,dudoso,"Se presenta como defensor de la Constitución, posible apelación a la identidad"
+fpn_1939_a0,dudoso,Sarcasmo personal antes de argumentar; posible ad hominem
+fpn_1939_d0,dudoso,"Justifica subvenciones acusando al rival de fraude, posible tu quoque"
+fpn_1944_a0,dudoso,"Fragmento cortado con ataque personal, posible ad hominem"
