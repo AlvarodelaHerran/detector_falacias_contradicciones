@@ -1,0 +1,20 @@
+{
+  "deteccion__tfidf": {
+    "kernel": "rbf",
+    "C": 6.509924253235056,
+    "gamma": 0.08971620093533346
+  },
+  "deteccion__embedding": {
+    "kernel": "rbf",
+    "C": 2.7430913692110273,
+    "gamma": 0.7314476796915378
+  },
+  "tipo__tfidf": {
+    "kernel": "linear",
+    "C": 0.5061643778066425
+  },
+  "tipo__embedding": {
+    "kernel": "linear",
+    "C": 2.768418684383134
+  }
+}
