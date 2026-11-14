@@ -1,3 +1,4 @@
 nlp/
 data/raw/
 models/
+__pycache__/

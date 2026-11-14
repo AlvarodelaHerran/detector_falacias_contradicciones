@@ -58,7 +58,7 @@ def predecir(red, X, tam_lote=256):
 
 def entrenar(red, X_train, y_train, X_dev, y_dev, lr, batch_size, n_clases,
              max_epocas=30, paciencia=3, trial=None):
-    """Entrena con parada temprana según el F1 macro en dev (el dev de Political).
+    """Entrena con parada temprana según el F1 macro en dev (normalmente, el dev de Political).
 
     X_*: tensores de secuencias (textos, 150); y_*: tensores con el número de clase.
     Tras cada época mide el F1 en dev; si no mejora en `paciencia` épocas seguidas, para.
